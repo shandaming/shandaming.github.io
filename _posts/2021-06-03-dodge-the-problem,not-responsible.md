@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "推托问题，不负责"
+title: "应该要做的事情没做，只顾虑自己"
 author: "ShanDaMing"
 tags: 生活
 excerpt_separator: <!--more-->

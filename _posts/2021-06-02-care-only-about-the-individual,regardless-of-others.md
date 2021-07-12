@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "只顾个人，不顾他人"
+title: "嫌同事烦人，不要找我"
 author: "ShanDaMing"
 tags: 生活
 excerpt_separator: <!--more-->

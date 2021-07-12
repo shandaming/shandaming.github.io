@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "不理同事，不人情帮忙，推托问题"
+title: "推托问题,没有帮助同事，对人冷漠，只顾自己对其他人发泄情绪"
 author: "ShanDaMing"
 tags: 生活
 excerpt_separator: <!--more-->
