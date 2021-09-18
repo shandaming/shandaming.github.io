@@ -2,7 +2,7 @@
 layout: post
 title: "如何赢得朋友和影响他人书中摘要"
 author: "ShanDaMing"
-tags: 生活
+tags: 书籍
 excerpt_separator: <!--more-->
 ---
 
@@ -65,3 +65,5 @@ excerpt_separator: <!--more-->
 * D、换位思考。想想对方帮你做事能得到哪些好处。
 * E、利益交换。找到上述好处与对方需求的结合点。
 * F、表明态度。提出请求的时候，向对方说明他如何能从中受益。
+
+## 28、请求对方帮忙，借此激发对方的优越感，令其自我感觉颇为良好。

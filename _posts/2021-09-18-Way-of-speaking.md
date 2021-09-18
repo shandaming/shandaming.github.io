@@ -2,7 +2,7 @@
 layout: post
 title: "蔡永康的说话之道记录"
 author: "ShanDaMing"
-tags: 生活
+tags: 书籍
 excerpt_separator: <!--more-->
 ---
 
