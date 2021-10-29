@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shandaming.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shandaming.github.io/" rel="alternate" type="text/html" /><updated>2021-10-28T21:46:23+08:00</updated><id>https://shandaming.github.io/feed.xml</id><title type="html">ShanDaMing</title><subtitle>个人博客</subtitle><author><name>chester how</name><email>chesterhow@gmail.com</email></author><entry><title type="html">不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度</title><link href="https://shandaming.github.io/2021-10-28/sdm" rel="alternate" type="text/html" title="不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度" /><published>2021-10-28T00:00:00+08:00</published><updated>2021-10-28T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-28/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-28/sdm">&lt;p&gt;1、上午彭辉全和胡祥赵我问小鱼功能相关问题，&lt;!--more--&gt;我当时急躁很不耐烦，语气冲人，的说我只是将接口数据拉下来，其他的什么关系我不知道。我当时没有考虑到他们也不知道，所以来问题，没有辩证的看问题，没有想想为什么他来问我问题，是他有疑问，还是我说的不清晰，还有他这不知道2张表里的数据关系，这就是没考虑到当初分配任务时的关系，没有仔细考虑各个人的具体任务功能和相关情况，我这边只负责拉数据不负责解析，而胡详那负责解析并显示，当初只将接口文档只发给我，而没有发给胡详，也导致他不清楚表的数据，这是主要矛盾，必须解决，我的毛病必须改，值得反思。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shandaming.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shandaming.github.io/" rel="alternate" type="text/html" /><updated>2021-10-29T20:58:37+08:00</updated><id>https://shandaming.github.io/feed.xml</id><title type="html">ShanDaMing</title><subtitle>个人博客</subtitle><author><name>chester how</name><email>chesterhow@gmail.com</email></author><entry><title type="html">与人争执，情绪激动，固执，不乐于助人，太主观没有全局观</title><link href="https://shandaming.github.io/2021-10-29/sdm" rel="alternate" type="text/html" title="与人争执，情绪激动，固执，不乐于助人，太主观没有全局观" /><published>2021-10-29T00:00:00+08:00</published><updated>2021-10-29T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-29/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-29/sdm">&lt;p&gt;1、彭辉泉让我看宝利通级联点连不上小鱼的问题，&lt;!--more--&gt;我当时就激动语气冲人固执的拒绝，仔细想想，我还没有改变思想，没有先问急不急，也没有答应他，等有精力了在解决这问题，在深入的想想，我为什么反感解决中石油这问题呢？因为我不喜欢解决始终是硬件导致的问题？重复了几次？还是不喜欢听彭辉泉命令？还是与中石油距离有点远了，这项目在我心里不重视？还是我有坏习惯，开发过的项目只维护现场的问题？还是真想偷懒，推脱任务？还要深入想想。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;他：
+    &lt;ul&gt;
+      &lt;li&gt;这功能是你开发的，有问题你要解决。&lt;/li&gt;
+      &lt;li&gt;这虽然是硬件问题，但是要你与技术支持反馈.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;我：
+    &lt;ul&gt;
+      &lt;li&gt;我之前已经调试完好，功能正常硬件出现的问题我只查找，而不向技术支持反馈,也不是协调人解决。&lt;/li&gt;
+      &lt;li&gt;这硬件反馈因该是测试直接反馈或谁发现的直接反馈。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;不要争论,不要急躁，我是垃圾，在仔细想想主要矛盾是什么？流程问题？我不遵守流程？ 是没有指定具体人员问题反馈流程，是没有指定主次关系，应该谁领导，导致我认为可以不听彭辉泉的。是我很反感硬件导致的重复问题？。。。。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2、胡详今天还是问我AI接口调用失败的问题，我又仔细的看了下发现是他将mcuid写成mcuId导致的，后面我就让他对比接口和发送的接口，而没有直接告诉他答案，我心理很不想告诉他，这是为什么？明明帮助他人是很好的，想来还是我一直坚持少打扰别人，别人也少打扰我这种观点导致的，为什么会又这种观点？。。。。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;不乐于助人，没有全局观，而且是一个团队里的人，帮助他也是帮助团队，我这个垃圾。&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">1、彭辉泉让我看宝利通级联点连不上小鱼的问题，</summary></entry><entry><title type="html">不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度</title><link href="https://shandaming.github.io/2021-10-28/sdm" rel="alternate" type="text/html" title="不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度" /><published>2021-10-28T00:00:00+08:00</published><updated>2021-10-28T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-28/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-28/sdm">&lt;p&gt;1、上午彭辉全和胡祥赵我问小鱼功能相关问题，&lt;!--more--&gt;我当时急躁很不耐烦，语气冲人，的说我只是将接口数据拉下来，其他的什么关系我不知道。我当时没有考虑到他们也不知道，所以来问题，没有辩证的看问题，没有想想为什么他来问我问题，是他有疑问，还是我说的不清晰，还有他这不知道2张表里的数据关系，这就是没考虑到当初分配任务时的关系，没有仔细考虑各个人的具体任务功能和相关情况，我这边只负责拉数据不负责解析，而胡详那负责解析并显示，当初只将接口文档只发给我，而没有发给胡详，也导致他不清楚表的数据，这是主要矛盾，必须解决，我的毛病必须改，值得反思。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;急躁不耐烦，语气冲人，没有辨证的看问题，没有解决矛盾，太自私，我是蠢猪。&lt;/li&gt;
 &lt;/ul&gt;
@@ -6,9 +29,7 @@
 &lt;p&gt;2、空闲时不做份外的事情，比如上面的胡祥所要问的问题，梁雪连问我AI件所在目录在哪里，我直接回答 不清除，这不是我开发的 这就是拒绝做份外的事情的态度，要摆正态度，有时间就多做份外的事，这样就可以接触到其他技能和行业技术，也能了解公司整体运营资料。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;不勤奋，懒惰，没有进取心，做份外的事情是很有利的，必须改正这推托的坏毛病。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">1、上午彭辉全和胡祥赵我问小鱼功能相关问题，</summary></entry><entry><title type="html">林肯传-戴尔*卡内基</title><link href="https://shandaming.github.io/2021-10-28/%E6%9E%97%E8%82%AF%E4%BC%A0" rel="alternate" type="text/html" title="林肯传-戴尔*卡内基" /><published>2021-10-28T00:00:00+08:00</published><updated>2021-10-28T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-28/%E6%9E%97%E8%82%AF%E4%BC%A0</id><content type="html" xml:base="https://shandaming.github.io/2021-10-28/%E6%9E%97%E8%82%AF%E4%BC%A0">&lt;ol&gt;
-  &lt;li&gt;林肯少年时很爱学习和读书，特别是喜欢辩论的书。&lt;!--more--&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>ShanDaMing</name></author><category term="书籍" /><summary type="html">林肯少年时很爱学习和读书，特别是喜欢辩论的书。</summary></entry><entry><title type="html">不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度</title><link href="https://shandaming.github.io/2021-10-27/sdm" rel="alternate" type="text/html" title="不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度" /><published>2021-10-27T00:00:00+08:00</published><updated>2021-10-27T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-27/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-27/sdm">&lt;p&gt;1、胡详问我接口错误的问题，&lt;!--more--&gt;我当时也看了，当时想休息(就是懒惰)，只是说出原因，而没有帮助他解决。&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">1、上午彭辉全和胡祥赵我问小鱼功能相关问题，</summary></entry><entry><title type="html">不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度</title><link href="https://shandaming.github.io/2021-10-27/sdm" rel="alternate" type="text/html" title="不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度" /><published>2021-10-27T00:00:00+08:00</published><updated>2021-10-27T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-27/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-27/sdm">&lt;p&gt;1、胡详问我接口错误的问题，&lt;!--more--&gt;我当时也看了，当时想休息(就是懒惰)，只是说出原因，而没有帮助他解决。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;懒惰，不勤奋，不给人面子，我真是垃圾。&lt;/li&gt;
 &lt;/ul&gt;
@@ -173,7 +194,9 @@
 
 &lt;h3 id=&quot;不要被动要勤快要勤快要主动要主动对于目标要行动要行动要持之以恒空谈只是枉然&quot;&gt;、不要被动，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;勤快&lt;/code&gt;，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;勤快&lt;/code&gt;，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;主动&lt;/code&gt;，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;主动&lt;/code&gt;.对于目标要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;行动&lt;/code&gt;、要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;行动&lt;/code&gt;，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;持之以恒&lt;/code&gt;，空谈只是枉然.&lt;/h3&gt;
 
-&lt;h3 id=&quot;敬胜怠义胜欲知其雄守其雌&quot;&gt;、敬胜怠，义胜欲。知其雄，守其雌&lt;/h3&gt;</content><author><name>ShanDaMing</name></author><category term="书籍" /><summary type="html">1、不要批评，不要指责，不要抱怨，要换位思考，理解宽容他人。</summary></entry><entry><title type="html">蔡永康的说话之道记录</title><link href="https://shandaming.github.io/2021-10-24/%E8%94%A1%E6%B0%B8%E5%BA%B7%E7%9A%84%E8%AF%B4%E8%AF%9D%E4%B9%8B%E9%81%93" rel="alternate" type="text/html" title="蔡永康的说话之道记录" /><published>2021-10-24T00:00:00+08:00</published><updated>2021-10-24T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-24/%E8%94%A1%E6%B0%B8%E5%BA%B7%E7%9A%84%E8%AF%B4%E8%AF%9D%E4%B9%8B%E9%81%93</id><content type="html" xml:base="https://shandaming.github.io/2021-10-24/%E8%94%A1%E6%B0%B8%E5%BA%B7%E7%9A%84%E8%AF%B4%E8%AF%9D%E4%B9%8B%E9%81%93">&lt;h2 id=&quot;说话内容&quot;&gt;说话内容&lt;/h2&gt;
+&lt;h3 id=&quot;敬胜怠义胜欲知其雄守其雌&quot;&gt;、敬胜怠，义胜欲。知其雄，守其雌&lt;/h3&gt;
+
+&lt;h3 id=&quot;与人无怨博爱天下-林肯&quot;&gt;与人无怨，博爱天下	–林肯&lt;/h3&gt;</content><author><name>ShanDaMing</name></author><category term="书籍" /><summary type="html">1、不要批评，不要指责，不要抱怨，要换位思考，理解宽容他人。</summary></entry><entry><title type="html">蔡永康的说话之道记录</title><link href="https://shandaming.github.io/2021-10-24/%E8%94%A1%E6%B0%B8%E5%BA%B7%E7%9A%84%E8%AF%B4%E8%AF%9D%E4%B9%8B%E9%81%93" rel="alternate" type="text/html" title="蔡永康的说话之道记录" /><published>2021-10-24T00:00:00+08:00</published><updated>2021-10-24T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-24/%E8%94%A1%E6%B0%B8%E5%BA%B7%E7%9A%84%E8%AF%B4%E8%AF%9D%E4%B9%8B%E9%81%93</id><content type="html" xml:base="https://shandaming.github.io/2021-10-24/%E8%94%A1%E6%B0%B8%E5%BA%B7%E7%9A%84%E8%AF%B4%E8%AF%9D%E4%B9%8B%E9%81%93">&lt;h2 id=&quot;说话内容&quot;&gt;说话内容&lt;/h2&gt;
 &lt;p&gt;1、话题卡住了，就换话题，不要恋战，没人会记住之前卡住的话题。&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;2、每个人都喜欢聊自己相关的事情，所以重视对方，聊聊对方相关的话题，尽量不要说出&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;我&lt;/code&gt;。&lt;/p&gt;
