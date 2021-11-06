@@ -1,23 +1,232 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shandaming.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shandaming.github.io/" rel="alternate" type="text/html" /><updated>2021-10-30T19:21:24+08:00</updated><id>https://shandaming.github.io/feed.xml</id><title type="html">ShanDaMing</title><subtitle>个人博客</subtitle><author><name>chester how</name><email>chesterhow@gmail.com</email></author><entry><title type="html">不礼貌，懒惰</title><link href="https://shandaming.github.io/2021-10-30/sdm" rel="alternate" type="text/html" title="不礼貌，懒惰" /><published>2021-10-30T00:00:00+08:00</published><updated>2021-10-30T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-30/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-30/sdm">&lt;p&gt;回家后奶奶问我话，&lt;!--more--&gt;我直接没礼她。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shandaming.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shandaming.github.io/" rel="alternate" type="text/html" /><updated>2021-11-05T22:28:55+08:00</updated><id>https://shandaming.github.io/feed.xml</id><title type="html">ShanDaMing</title><subtitle>个人博客</subtitle><author><name>chester how</name><email>chesterhow@gmail.com</email></author><entry><title type="html">不会做事</title><link href="https://shandaming.github.io/2021-11-05/sdm" rel="alternate" type="text/html" title="不会做事" /><published>2021-11-05T00:00:00+08:00</published><updated>2021-11-05T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-11-05/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-11-05/sdm">&lt;p&gt;罗总问我报告场景下设置主席、发言人还有分屏调用接口流程是什么，&lt;!--more--&gt;我当时只是大概的说了下切换主席/发言人调用什么，但罗总问到我从主席切换到发言人后，主席是看谁？这我记忆模糊了，后面又问我当时你们是怎么确定调用流程的，我说没有确定只是大概的说下，罗总指出我这是错误的做事方式，这流程必须讨论清楚才行，要不然后面谁都不知道标准流程，这就是个问题。&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;不礼貌，还修什么身阿，这点小事都不能改，我真垃圾&lt;/li&gt;
+  &lt;li&gt;在报告场景切换主席/发言人还有分屏，但是只是听产品他们说了，但是具体从哪切到哪该怎么调用，这没有具体的讨论，也没有形成方案，也没有具体的测试，这是错误的做事方式，必须改正，遇到事情，必须讨论梳理流程，确定成标准的方案，不能说没问题就不继续推进这讨论，必须主动推进讨论确定方案，要仔细的思考哪里还没弄清楚。&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">罗总问我报告场景下设置主席、发言人还有分屏调用接口流程是什么，</summary></entry><entry><title type="html">急躁病</title><link href="https://shandaming.github.io/2021-11-04/sdm" rel="alternate" type="text/html" title="急躁病" /><published>2021-11-04T00:00:00+08:00</published><updated>2021-11-04T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-11-04/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-11-04/sdm">&lt;p&gt;彭辉全问我野终端表是不是DCS这边删除的，&lt;!--more--&gt;我当时在整理交接项目，所以就比较太急躁，语气急躁的说我在忙，等会而帮你看。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;要耐得住急性子，不厌烦，急性病不能犯&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;下午准备看面试题的，但是后面没看，准备补TDD的，但是做了一点发现很麻烦就不继续做了。&lt;/p&gt;
+&lt;p&gt;今天未思考，也未将灵感记录下，这毛病很危险，必须坚持思考，有感悟就记录下，现在记性很差&lt;/p&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">彭辉全问我野终端表是不是DCS这边删除的，</summary></entry><entry><title type="html">孙子兵法</title><link href="https://shandaming.github.io/2021-11-04/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95" rel="alternate" type="text/html" title="孙子兵法" /><published>2021-11-04T00:00:00+08:00</published><updated>2021-11-04T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-11-04/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95</id><content type="html" xml:base="https://shandaming.github.io/2021-11-04/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95">&lt;h3 id=&quot;计篇&quot;&gt;计篇&lt;/h3&gt;
+
+&lt;p&gt;要从全局考虑战略，&lt;!--more--&gt;对比敌我各种能力和资源。&lt;/p&gt;
+
+&lt;p&gt;决策一经采纳，就要营造出有利于我方的势态，应以鬼诈多变，攻其无备，出其不意。&lt;/p&gt;
+
+&lt;p&gt;要周密的谋划战略&lt;/p&gt;
+
+&lt;h3 id=&quot;作战篇&quot;&gt;作战篇&lt;/h3&gt;
+
+&lt;p&gt;需要动用巨大资源、巨额资金、只有我方评估过有能力承担这些，才能执行决策&lt;/p&gt;
+
+&lt;p&gt;要速胜，时间久了则团队疲惫，士气低下，资源和资金会耗尽，会让其他人趁火打劫&lt;/p&gt;
+
+&lt;p&gt;少从己方补充资源和资金，要取之于敌，补充我方&lt;/p&gt;
+
+&lt;p&gt;速胜为贵，不宜久拖不决&lt;/p&gt;
+
+&lt;h3 id=&quot;谋攻篇&quot;&gt;谋攻篇&lt;/h3&gt;
+
+&lt;p&gt;不战而胜，这是上策，打败敌人，这是下策。使敌人大部分完全投降，是上策，打败敌人大部分，是下策。所于百战百胜，不算高明，不经交战而使敌人屈服，才算高明&lt;/p&gt;
+
+&lt;p&gt;最高名的手法是挫败地方的谋略，其次外交。&lt;/p&gt;
+
+&lt;p&gt;要以全胜为策略，以谋攻敌，保全我方利益&lt;/p&gt;
+
+&lt;p&gt;资源多，资金多，直接攻，敌我一样就用奇谋，敌强我弱，就避免碰见&lt;/p&gt;
+
+&lt;p&gt;要有一个好领导&lt;/p&gt;
+
+&lt;p&gt;如果不懂就不要瞎指挥&lt;/p&gt;
+
+&lt;p&gt;预测胜利就要看是否有好领导，资源资金是否多，资源资金少时该怎样，上下是否一心，是否做好准备&lt;/p&gt;
+
+&lt;p&gt;要知彼知己&lt;/p&gt;
+
+&lt;h3 id=&quot;形篇&quot;&gt;形篇&lt;/h3&gt;
+
+&lt;p&gt;不被敌人战胜关键在自己不犯错，战胜敌人的关键在于敌人是否出错&lt;/p&gt;
+
+&lt;p&gt;实力强大就进攻，实力不足就防御&lt;/p&gt;
+
+&lt;p&gt;要先让自己不犯错，利于不败之地，其次才不失任何一个机会击败敌人&lt;/p&gt;
+
+&lt;p&gt;要对比双方资源、人员、实力等&lt;/p&gt;
+
+&lt;p&gt;管理组织一定要好，虚实要用好&lt;/p&gt;
+
+&lt;p&gt;以正抵挡，以奇制胜&lt;/p&gt;
+
+&lt;p&gt;示敌以虚，速战速决&lt;/p&gt;
+
+&lt;p&gt;要抓住&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;势&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;虚实&quot;&gt;虚实&lt;/h3&gt;
+
+&lt;p&gt;争取主动权，集中优势兵力，敌进我退，敌驻我扰，敌疲我打，敌退我追，大步进退，诱敌深入，集中兵力，各个击破，运动战里歼敌人&lt;/p&gt;
+
+&lt;p&gt;避实击虚&lt;/p&gt;
+
+&lt;p&gt;要随机应变，根据敌情变化而作出变化&lt;/p&gt;
+
+&lt;h3 id=&quot;军争篇&quot;&gt;军争篇&lt;/h3&gt;
+
+&lt;p&gt;争取先机&lt;/p&gt;
+
+&lt;p&gt;灵活分兵、合兵&lt;/p&gt;
+
+&lt;h3 id=&quot;九变篇&quot;&gt;九变篇&lt;/h3&gt;</content><author><name>ShanDaMing</name></author><category term="书籍" /><summary type="html">计篇 要从全局考虑战略，</summary></entry><entry><title type="html">10人以下小团队管理手册</title><link href="https://shandaming.github.io/2021-11-03/10%E4%BA%BA%E4%BB%A5%E4%B8%8B%E5%B0%8F%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86%E6%89%8B%E5%86%8C" rel="alternate" type="text/html" title="10人以下小团队管理手册" /><published>2021-11-03T00:00:00+08:00</published><updated>2021-11-03T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-11-03/10%E4%BA%BA%E4%BB%A5%E4%B8%8B%E5%B0%8F%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86%E6%89%8B%E5%86%8C</id><content type="html" xml:base="https://shandaming.github.io/2021-11-03/10%E4%BA%BA%E4%BB%A5%E4%B8%8B%E5%B0%8F%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86%E6%89%8B%E5%86%8C">&lt;h3 id=&quot;主管的职责是什么&quot;&gt;主管的职责是什么？&lt;/h3&gt;
+
+&lt;p&gt;大领导的最重要工作是决策与判断，&lt;!--more--&gt;如果不尽如意，则改变组织体系或调整培训制度，下属则会关注他针对公司的体系或制度的想法，或他所作出的决策。&lt;/p&gt;
+
+&lt;p&gt;主管的职责就是&lt;strong&gt;&lt;em&gt;通过下属实现经营者目标的人&lt;/em&gt;&lt;/strong&gt;,让下属做才能算主管。&lt;/p&gt;
+
+&lt;p&gt;主管必须承担自己的那一部分业务工作，要以身作则。主管要确认企业对自己的工作定位，在管理、专业人员、监督着、业务人员中更侧重哪个角色的职责。&lt;/p&gt;
+
+&lt;p&gt;主管必须充分理解经营者的价值观，价值观优于业绩。也要摸清下属的价值观。&lt;/p&gt;
+
+&lt;p&gt;经营者的话要先&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;消化&lt;/code&gt;再传达，主管要根据自己所带团队或部门的实际情况及职能，将经营者的话翻译成更具体的方案内容，在将这些任务分配给下属，还要让下属明确谁负责什么工作，说明该任务的目的。如果下属没有行动说明主管未尽责。&lt;/p&gt;
+
+&lt;p&gt;出现的问题要剖析&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;原因性问题&lt;/code&gt;的根本所在，可能是主管管理不当，下达的方式存在问题，没有说明为什么要这么做？这么做的目的等，可以使用因果关系分析表。&lt;/p&gt;
+
+&lt;h3 id=&quot;主管的工作要这样做&quot;&gt;主管的工作要这样做&lt;/h3&gt;
+
+&lt;p&gt;主管的工作分为：业务管理(制定方针、推进业务)、员工管理(掌控下属，协助领导)，要侧重员工管理，掌握员工的特点，比如：掌握哪些技能，工作是否积极，性格怎样？是一人埋头苦干型，还是在团队中更能发挥实力？习惯哪些领域工作，习惯等待上司具体指示，还是自己全权负责更能大显身手？在管理员工的同时培养人才。&lt;/p&gt;
+
+&lt;p&gt;作为主管，一定要降低自己的业务目标，用更多精力专心支援下属，不要冲下属&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;发火&lt;/code&gt;！！！&lt;/p&gt;
+
+&lt;p&gt;主管必须结合每名下属的能力和意愿来调整支持和指导他们的方式，了解还要深入到下属所负责的每一项工作中		32&lt;/p&gt;
+
+&lt;p&gt;目标不清楚，下属不行动，作为主管，必须针对每个人的能力制定符合他的水平的具体目标。&lt;/p&gt;
+
+&lt;p&gt;使用目标进行管理，不成熟的从沟通型目标做起，&lt;/p&gt;
+
+&lt;p&gt;目标就是必须完成的定额任务。&lt;/p&gt;
+
+&lt;p&gt;要将团队力发挥到极致，必须人尽其才，各得其所。&lt;/p&gt;
+
+&lt;p&gt;公司的目标和个人的目标重合越多越好，主管要了解个人的人生规划。&lt;/p&gt;
+
+&lt;p&gt;情况发生变化时，主管必须当机立断，迅速调整方向，并向下属说明自己的想法。&lt;/p&gt;
+
+&lt;p&gt;主管眼光放长远，心态要平和。要比属下站的更高，看的更远，对待下属要平和。&lt;/p&gt;
+
+&lt;p&gt;主管应该时刻伸长触角，预测所有可能出现的中间事项并迅速制定对策，因此不可忽视平时的信息收集工作，一定要不断的开阔视野，打磨自己的判断力。&lt;/p&gt;
+
+&lt;p&gt;不要让下属感到被支援。主管始终要用引导的方式支援下属，让下属觉得发现解决方案的是自己，取得进步靠的也是自己&lt;/p&gt;
+
+&lt;p&gt;主管必须要告诉下属你要取得什么样的&lt;strong&gt;结果&lt;/strong&gt;,而不是你要做什么，要在中间过程中检查下属的进展情况，要尽量缩小期待和现实的差距，通过一次次的指导下属和调整，使现实尽可能接近最初的结果。&lt;/p&gt;
+
+&lt;p&gt;评价下属要基于&lt;strong&gt;事实&lt;/strong&gt;，平时要多留意下属的行为和态度。&lt;/p&gt;
+
+&lt;p&gt;让下属自己汇报成绩，注意倾听，听下属汇报是主管的重要工作，在倾听中能发现问题。&lt;/p&gt;
+
+&lt;p&gt;主管要和下属双向沟通，争取下属的信任。&lt;/p&gt;
+
+&lt;p&gt;如何管理目标和评价下属？1、制定目标。2、让下属挑战目标。3、给予评价，	&lt;strong&gt;参加原书38页&lt;/strong&gt;	&lt;strong&gt;–要养成思考的习惯&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;点燃下属工作热情&quot;&gt;点燃下属工作热情&lt;/h3&gt;
+
+&lt;p&gt;高尔夫中蕴含的5大动力：1、明确的目标。2、游戏的完整性。3、反馈。4、多种技能应用。5、决策。&lt;/p&gt;
+
+&lt;p&gt;倾听下属提升动力，引导下属思考1、我想做什么？2、我对什么不满。3、我有什么困难跨不过去。让下属养成思考的习惯，通过提问了解下属为什么事而烦恼，以及他想怎样解决这问题。&lt;/p&gt;
+
+&lt;p&gt;分析下属动力不足的原因。公司的问题？个人的问题？主管的问题？&lt;/p&gt;
+
+&lt;p&gt;下属抱怨工资太少。了解下属的成本，了解社会的平均工资，不满情绪一般是不了解现状。&lt;/p&gt;
+
+&lt;p&gt;主管要谈梦想和愿景？？？&lt;/p&gt;
+
+&lt;p&gt;主管需要影响下属的潜意识，向他们潜意识输入积极意向。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;四行日记	119&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;主管修身&quot;&gt;主管修身&lt;/h3&gt;
+
+&lt;p&gt;不要埋怨公司和下属，如果公司没有方针，那就自己制定一个，如果方针过于抽象，那就把它转化成更具体的内容，没有现成的就自己思考来创造，这也是主管必要的能力。&lt;/p&gt;
+
+&lt;p&gt;在否定下属前扣心自问我是否得到下属的认同？主管除了磨练技术提升自我外，还要严于律己，以身做则，带领自己、下属和公司共同进步，不管必须要有一套自己在关键时刻的做事准则来做决策。别说这是上头的指示，一旦说了就相当于放弃了主管的职责，平时要经常主动的问好。&lt;/p&gt;
+
+&lt;p&gt;主管要讲工作的目的，即眼前的工作能在团队中起到什么作用，完成这工作的意义又是什么。&lt;/p&gt;
+
+&lt;p&gt;下属不是客户的奴隶，要划清分内事和分外事的界限。&lt;/p&gt;
+
+&lt;p&gt;辞职不等于负责任，真要负责任就要在下一个项目中创造更多的利润，如果下属提出一个策划，他很想跃跃欲试，但是结果不确定，如果你很希望下属作出成绩，支持他，那么就应该事先将情况汇报给自己的上司或经营者，可以这样说：出于种种考虑，我决定放手让下属去做，如果失败，请将责任算在我头上。&lt;/p&gt;
+
+&lt;p&gt;用人的根本是&lt;strong&gt;发自真心的替下属着想，想尽办法将他培养成独当一面的人才&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;对下属指导要严格，该批评时就批评，当然要委婉的指出他的错误，也可以先说他的优点，在批评他。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;下属遇到困难的时候，主管一定要伸出援手&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;了解并支持下属的人生规划&lt;/p&gt;
+
+&lt;p&gt;告诉下属将来社会需要什么样的人才&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;首先考虑自己能做的事&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;打造团队&quot;&gt;打造团队&lt;/h3&gt;</content><author><name>ShanDaMing</name></author><category term="书籍" /><summary type="html">主管的职责是什么？ 大领导的最重要工作是决策与判断，</summary></entry><entry><title type="html">工作不负责，不尊重别人</title><link href="https://shandaming.github.io/2021-11-03/sdm" rel="alternate" type="text/html" title="工作不负责，不尊重别人" /><published>2021-11-03T00:00:00+08:00</published><updated>2021-11-03T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-11-03/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-11-03/sdm">&lt;p&gt;上午夏婷婷让我看下电投静音状态不对的问题，&lt;!--more--&gt;我没理她，后面我自己看了，发现是之前已经修复的bug，后面让他找赵子亮要最新程序，这明明我直接可以给的，还多次一举多走一部。&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;懒惰，不勤奋刻苦，这是很危险的，必须改正，明天继续弄。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">回家后奶奶问我话，</summary></entry><entry><title type="html">曾国藩</title><link href="https://shandaming.github.io/2021-10-30/%E6%9B%BE%E5%9B%BD%E8%97%A9" rel="alternate" type="text/html" title="曾国藩" /><published>2021-10-30T00:00:00+08:00</published><updated>2021-10-30T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-30/%E6%9B%BE%E5%9B%BD%E8%97%A9</id><content type="html" xml:base="https://shandaming.github.io/2021-10-30/%E6%9B%BE%E5%9B%BD%E8%97%A9">&lt;ol&gt;
-  &lt;li&gt;经常审查自己的世界观。&lt;!--more--&gt;
-    &lt;ul&gt;
-      &lt;li&gt;反思自己的世界观，改正错误的观念。 2021-10-24&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;内部是看不清自己，要经常外部的审视自己。
-    &lt;ul&gt;
-      &lt;li&gt;举止、习惯、个性、特征，可以录像、找被人说自己的毛病。 2021-10-25&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+  &lt;li&gt;对工作不认真，不用心、不负责，这是错误的方式，如果实在累，可以先回应他们，说过会儿看，休息几分钟后在看就行了，不回应他们，给人的感觉就是不友好，不尊重别人。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;梁雪莲问我中石油的问题，我一直都没搭理她，不想看她的问题，之后想中石油都交接了，现在应该是找新同事看了，但是我又没有告诉她，她肯定不知道，我真是不会做事。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;不尊重她人，不给人面子，对工作不负责、不用心做，这些都是错误的观念，想让他们找新同事问，而没有告诉他们，这是任性的行为，要实际行动阿，必须改正错误。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;中午看增国藩书，说对于不好的事情如果已经过去了，就不要在斤斤计较，纠结了，也不要在抱怨了，我想了想，发现我之前一直对我妈斤斤计较之前介绍的已经结婚同居过的那人，纠结这事，还在她面前经常提起，这就是抱怨我妈，这是不对的，换位思考下，肯定伤害别人，必须改正。&lt;/p&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">上午夏婷婷让我看下电投静音状态不对的问题，</summary></entry><entry><title type="html">曾国藩</title><link href="https://shandaming.github.io/2021-11-03/%E6%9B%BE%E5%9B%BD%E8%97%A9" rel="alternate" type="text/html" title="曾国藩" /><published>2021-11-03T00:00:00+08:00</published><updated>2021-11-03T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-11-03/%E6%9B%BE%E5%9B%BD%E8%97%A9</id><content type="html" xml:base="https://shandaming.github.io/2021-11-03/%E6%9B%BE%E5%9B%BD%E8%97%A9">&lt;h2 id=&quot;成事--冯唐&quot;&gt;成事 -冯唐&lt;/h2&gt;
+
+&lt;p&gt;要实干，少讲大道理，少戴高帽子，&lt;!--more--&gt;要层层追问清楚：我们要解决什么问题？为什么会出现这问题？这问题可以分解为几个次级问题？如何解决这问题，需要什么资源？潜在的最大困难有哪些？等。在理论上就要倚重些读书多，思考多，不好浮名的学者。&lt;/p&gt;
+
+&lt;p&gt;有想法，要实践，第一部就是先做PPT项目计划书&lt;/p&gt;
+
+&lt;p&gt;要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;耐烦得住&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;做事情枪在前头，争利益躲在后头，重事实，说实话，不做假&lt;/p&gt;
+
+&lt;p&gt;大处着眼，小处着手，要从全局和长远的观点出发去考虑问题，也要在具体事情上一件件地做好&lt;/p&gt;
+
+&lt;p&gt;对自己严厉，对他人宽容&lt;/p&gt;
+
+&lt;p&gt;不要尝试改变他人的想法，也不要被其他负面的心思影响自己。&lt;/p&gt;
+
+&lt;p&gt;成事 = 诚 * (勤 + 慎)&lt;/p&gt;
+
+&lt;p&gt;少看手机，少玩电脑游戏，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;多读书、思考、聊天&lt;/code&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;做事一定要勤奋，二要专心&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;成不成功。&lt;strong&gt;别多想，别纠结，做事，贵在坚持&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;耐烦&lt;/strong&gt;是做事的首要修养&lt;/p&gt;
+
+&lt;p&gt;身上不顺心的事情，不要放在心理翻来覆去的纠结。&lt;/p&gt;
+
+&lt;p&gt;不要怠慢他人，不要拖延做事&lt;/p&gt;
+
+&lt;p&gt;莫牢骚、莫抱怨&lt;/p&gt;
+
+&lt;p&gt;老实人偶尔也要狡猾些。&lt;/p&gt;
+
+&lt;p&gt;睡觉前，每日做个小结，总结反思一天的得失。&lt;/p&gt;
+
+&lt;p&gt;要有成事的动力(发家致富)&lt;/p&gt;
+
+&lt;p&gt;做事，要勇猛精进，处世，要豁达恬谈，刚柔相济。用平常心处世，用进取心做事&lt;/p&gt;
+
+&lt;p&gt;有主见、有方向、有坚守，不固执，没成见。&lt;/p&gt;
+
+&lt;p&gt;做事要先有事情的全局，了解组成事情的各个环节。小处着手前做好能大处先着眼。&lt;/p&gt;
+
+&lt;p&gt;认清自己的长处和短处，知道他人的长处，用好他人。&lt;/p&gt;
+
+&lt;p&gt;不要嫉妒、不要贪心&lt;/p&gt;
+
+&lt;p&gt;不要有拖延症&lt;/p&gt;
+
+&lt;p&gt;要走出舒适区，自找不舒服&lt;/p&gt;
+
+&lt;p&gt;不能懒，一懒生百病&lt;/p&gt;
 
 &lt;h2 id=&quot;唐浩明点评曾国藩日记&quot;&gt;唐浩明点评曾国藩日记&lt;/h2&gt;
 
@@ -50,120 +259,115 @@
 
 &lt;p&gt;要举止庄重，干净、整洁，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;静&lt;/code&gt;	092&lt;/p&gt;
 
-&lt;p&gt;做事要持之以恒，坚持	120&lt;/p&gt;</content><author><name>ShanDaMing</name></author><category term="书籍" /><summary type="html">经常审查自己的世界观。</summary></entry><entry><title type="html">与人争执，情绪激动，固执，不乐于助人，太主观没有全局观</title><link href="https://shandaming.github.io/2021-10-29/sdm" rel="alternate" type="text/html" title="与人争执，情绪激动，固执，不乐于助人，太主观没有全局观" /><published>2021-10-29T00:00:00+08:00</published><updated>2021-10-29T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-29/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-29/sdm">&lt;p&gt;1、彭辉泉让我看宝利通级联点连不上小鱼的问题，&lt;!--more--&gt;我当时就激动语气冲人固执的拒绝，仔细想想，我还没有改变思想，没有先问急不急，也没有答应他，等有精力了在解决这问题，在深入的想想，我为什么反感解决中石油这问题呢？因为我不喜欢解决始终是硬件导致的问题？重复了几次？还是不喜欢听彭辉泉命令？还是与中石油距离有点远了，这项目在我心里不重视？还是我有坏习惯，开发过的项目只维护现场的问题？还是真想偷懒，推脱任务？还要深入想想。&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;他：
-    &lt;ul&gt;
-      &lt;li&gt;这功能是你开发的，有问题你要解决。&lt;/li&gt;
-      &lt;li&gt;这虽然是硬件问题，但是要你与技术支持反馈.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;我：
-    &lt;ul&gt;
-      &lt;li&gt;我之前已经调试完好，功能正常硬件出现的问题我只查找，而不向技术支持反馈,也不是协调人解决。&lt;/li&gt;
-      &lt;li&gt;这硬件反馈因该是测试直接反馈或谁发现的直接反馈。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
+&lt;p&gt;做事要持之以恒，坚持	120&lt;/p&gt;</content><author><name>ShanDaMing</name></author><category term="书籍" /><summary type="html">成事 -冯唐 要实干，少讲大道理，少戴高帽子，</summary></entry><entry><title type="html">急躁不耐烦</title><link href="https://shandaming.github.io/2021-11-02/sdm" rel="alternate" type="text/html" title="急躁不耐烦" /><published>2021-11-02T00:00:00+08:00</published><updated>2021-11-02T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-11-02/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-11-02/sdm">&lt;p&gt;态度不好，说错话，&lt;!--more--&gt;赵子亮让我看看SMC2.0开会报错的问题，我当时在写邮件，直接说没时间，直接拒绝，这是错误的方式，可能他现在很着急，这环境还要演示，应该改正态度，说：等我忙完这邮件在看看你那问题。&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;不要争论,不要急躁，我是垃圾，在仔细想想主要矛盾是什么？流程问题？我不遵守流程？ 是没有指定具体人员问题反馈流程，是没有指定主次关系，应该谁领导，导致我认为可以不听彭辉泉的。是我很反感硬件导致的重复问题？。。。。&lt;/li&gt;
+  &lt;li&gt;不给人面子，说话不近人情，没有先想想2秒在说，为什么这样，是30多年已经养成习惯了？还是我太自私，只顾自己，不考虑他人？我这毛病习惯必须改正&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;2、胡详今天还是问我AI接口调用失败的问题，我又仔细的看了下发现是他将mcuid写成mcuId导致的，后面我就让他对比接口和发送的接口，而没有直接告诉他答案，我心理很不想告诉他，这是为什么？明明帮助他人是很好的，想来还是我一直坚持少打扰别人，别人也少打扰我这种观点导致的，为什么会又这种观点？。。。。&lt;/p&gt;
+&lt;p&gt;赵永明让我帮他看看92环境预约会议报非法参数错误问题，我当时就很急躁，耐不住烦，心里很不爽，他让我看日志，我都没理他，只顾自己查看问题。&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;不乐于助人，没有全局观，而且是一个团队里的人，帮助他也是帮助团队，我这个垃圾。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">1、彭辉泉让我看宝利通级联点连不上小鱼的问题，</summary></entry><entry><title type="html">不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度</title><link href="https://shandaming.github.io/2021-10-28/sdm" rel="alternate" type="text/html" title="不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度" /><published>2021-10-28T00:00:00+08:00</published><updated>2021-10-28T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-28/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-28/sdm">&lt;p&gt;1、上午彭辉全和胡祥赵我问小鱼功能相关问题，&lt;!--more--&gt;我当时急躁很不耐烦，语气冲人，的说我只是将接口数据拉下来，其他的什么关系我不知道。我当时没有考虑到他们也不知道，所以来问题，没有辩证的看问题，没有想想为什么他来问我问题，是他有疑问，还是我说的不清晰，还有他这不知道2张表里的数据关系，这就是没考虑到当初分配任务时的关系，没有仔细考虑各个人的具体任务功能和相关情况，我这边只负责拉数据不负责解析，而胡详那负责解析并显示，当初只将接口文档只发给我，而没有发给胡详，也导致他不清楚表的数据，这是主要矛盾，必须解决，我的毛病必须改，值得反思。&lt;/p&gt;
+  &lt;li&gt;别人问我话，我没搭理，这是不尊敬别人，不给人面子，我当时很急躁不耐烦，为什么？是30年的习惯？是性格太自私，只顾自己不管他人感受，没有换位思考？还是我喜欢沉醉于安静的情况下不喜欢被人打扰，不想走出舒适区？这些毛病需要改正反思。&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">态度不好，说错话，</summary></entry><entry><title type="html">自私，心胸狭隘</title><link href="https://shandaming.github.io/2021-11-01/sdm" rel="alternate" type="text/html" title="自私，心胸狭隘" /><published>2021-11-01T00:00:00+08:00</published><updated>2021-11-01T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-11-01/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-11-01/sdm">&lt;p&gt;在加上介绍的人的微信后，&lt;!--more--&gt;我与她聊了会儿，之前没有赴约导致她对我很有意见，我问她大部分问题，她都不回答，后面我将照片发给她看后，她对我态度很不好，要么是她看不上我，要么是她也不好意思发，结合前者推论她看不上我概率大些，晚上发现她将我微信删除了，后面我发送加的请求，等了估计1小时，发现没有通知，猜想是她很坚决不加我，看不上我，我当时就心理很生气，心胸狭隘，自私只顾自己感受，将对方的微信好友给删了，别人惹我生气，我就将她所有信息都删了这是什么性格？发泄内心的愤恨和报复？必须要好好反思。&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;急躁不耐烦，语气冲人，没有辨证的看问题，没有解决矛盾，太自私，我是蠢猪。&lt;/li&gt;
+  &lt;li&gt;别人一点行为就惹我生气，着时自私、心胸狭隘的，而且想了她删除我2次了，就将她删除了，发泄内心的愤恨和报复，这是短视的行为，之前已经有很多次教训了，删除后还想继续联系这很后悔阿，必须反思改正这毛病，&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">在加上介绍的人的微信后，</summary></entry><entry><title type="html">如何赢得朋友和影响他人</title><link href="https://shandaming.github.io/2021-11-01/%E5%A6%82%E4%BD%95%E8%B5%A2%E5%BE%97%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%BD%B1%E5%93%8D%E4%BB%96%E4%BA%BA" rel="alternate" type="text/html" title="如何赢得朋友和影响他人" /><published>2021-11-01T00:00:00+08:00</published><updated>2021-11-01T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-11-01/%E5%A6%82%E4%BD%95%E8%B5%A2%E5%BE%97%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%BD%B1%E5%93%8D%E4%BB%96%E4%BA%BA</id><content type="html" xml:base="https://shandaming.github.io/2021-11-01/%E5%A6%82%E4%BD%95%E8%B5%A2%E5%BE%97%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%BD%B1%E5%93%8D%E4%BB%96%E4%BA%BA">&lt;h3 id=&quot;1不要批评不要指责不要抱怨要换位思考理解宽容他人&quot;&gt;1、不要批评，不要指责，不要抱怨，要换位思考，理解宽容他人。&lt;!--more--&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;2要感谢他人赞美鼓励他人体贴关切他人&quot;&gt;2、要感谢他人，赞美鼓励他人，体贴关切他人。&lt;/h3&gt;
+
+&lt;h3 id=&quot;3激发他人的需求找出他们想要什么&quot;&gt;3、激发他人的需求。找出他们想要什么。&lt;/h3&gt;
+
+&lt;h3 id=&quot;4建立对他人的兴趣关注他人&quot;&gt;4、建立对他人的兴趣，关注他人。&lt;/h3&gt;
+
+&lt;h3 id=&quot;5要微笑记住别人的名字&quot;&gt;5、要微笑，记住别人的名字。&lt;/h3&gt;
+
+&lt;h3 id=&quot;6要倾听鼓励他人谈论自己也谈论他人感兴趣的事情让对方知道他有多重要&quot;&gt;6、要倾听，鼓励他人谈论自己。也谈论他人感兴趣的事情，让对方知道他有多重要。&lt;/h3&gt;
+
+&lt;h3 id=&quot;7不要反驳他人避免争论&quot;&gt;7、不要反驳他人，避免争论。&lt;/h3&gt;
+
+&lt;h3 id=&quot;8尊重他人的观点绝不要说你错了要提出自己的建议&quot;&gt;8、尊重他人的观点，绝不要说&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;你错了&lt;/code&gt;，要提出自己的建议。&lt;/h3&gt;
+
+&lt;h3 id=&quot;9如果你错了就果断的承认错误&quot;&gt;9、如果你错了，就果断的承认错误。&lt;/h3&gt;
+
+&lt;h3 id=&quot;10沟通始于友善&quot;&gt;10、沟通始于友善。&lt;/h3&gt;
+
+&lt;h3 id=&quot;11让对方点头称是&quot;&gt;11、让对方点头称&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;是&lt;/code&gt;。&lt;/h3&gt;
+
+&lt;h3 id=&quot;12让对方主导谈话&quot;&gt;12、让对方主导谈话。&lt;/h3&gt;
+
+&lt;h3 id=&quot;13循循善诱让对方自行得出结论&quot;&gt;13、循循善诱，让对方自行得出结论。&lt;/h3&gt;
+
+&lt;h3 id=&quot;14换位思考从对方立场看问题&quot;&gt;14、换位思考，从对方立场看问题。&lt;/h3&gt;
+
+&lt;h3 id=&quot;15理解并体谅他人的想法和愿望&quot;&gt;15、理解并体谅他人的想法和愿望。&lt;/h3&gt;
+
+&lt;h3 id=&quot;16激发对方内心高尚的动机&quot;&gt;16、激发对方内心高尚的动机。&lt;/h3&gt;
+
+&lt;h3 id=&quot;17以戏剧性的方式呈现你的想法&quot;&gt;17、以戏剧性的方式呈现你的想法。&lt;/h3&gt;
+
+&lt;h3 id=&quot;19挑别人错的时候要先称赞别人的优点在说别人的缺点&quot;&gt;19、挑别人错的时候，要先称赞别人的优点，在说别人的缺点。&lt;/h3&gt;
+
+&lt;h3 id=&quot;20间接委婉的指出他人的过错&quot;&gt;20、间接、委婉的指出他人的过错.&lt;/h3&gt;
+
+&lt;h3 id=&quot;21批评对方之前先谈谈你自己的过错&quot;&gt;21、批评对方之前，先谈谈你自己的过错。&lt;/h3&gt;
+
+&lt;h3 id=&quot;22不要命令别人要引导别人&quot;&gt;22、不要命令别人，要引导别人。&lt;/h3&gt;
+
+&lt;h3 id=&quot;23给对方留足面子&quot;&gt;23、给对方留足面子。&lt;/h3&gt;
+
+&lt;h3 id=&quot;24夸奖他人每一微小的进步由衷的赞许不吝啬赞美之词&quot;&gt;24、夸奖他人每一微小的进步，由衷的赞许，不吝啬赞美之词。&lt;/h3&gt;
+
+&lt;h3 id=&quot;25用赞誉激励他人&quot;&gt;25、用赞誉激励他人。&lt;/h3&gt;
+
+&lt;h3 id=&quot;26鼓励对方勇于改变让对方觉得改正错误并不难改正要办的事情并不难办&quot;&gt;26、鼓励对方勇于改变，让对方觉得改正错误并不难改正，要办的事情并不难办。&lt;/h3&gt;
+
+&lt;h3 id=&quot;29千万千万别唠叨&quot;&gt;29、千万、千万别唠叨。&lt;/h3&gt;
+
+&lt;h3 id=&quot;30不要试图改变对方&quot;&gt;30、不要试图改变对方。&lt;/h3&gt;
+
+&lt;h3 id=&quot;31不要指责责怪对方&quot;&gt;31、不要指责、责怪对方。&lt;/h3&gt;
+
+&lt;h3 id=&quot;32赞赏欣赏对方&quot;&gt;32、赞赏、欣赏对方。&lt;/h3&gt;
+
+&lt;h3 id=&quot;33于细微处关怀对方&quot;&gt;33、于细微处关怀对方。&lt;/h3&gt;
+
+&lt;h3 id=&quot;不要心胸狭隘不要嫉妒不要贪心不要乱发情绪要挺住忍住控制情绪&quot;&gt;、不要心胸狭隘、不要嫉妒、不要贪心、不要乱发情绪，要挺住、忍住、控制情绪。&lt;/h3&gt;
+
+&lt;h3 id=&quot;不要固执极端不要急躁不耐烦要在安静的环境恢复精力思考改善心情要能听进别人说我的过错要学会变通的达到目的&quot;&gt;、不要固执极端，不要急躁不耐烦，要在安静的环境恢复精力思考改善心情，要能听进别人说我的过错，要学会变通的达到目的。&lt;/h3&gt;
+
+&lt;h3 id=&quot;不要生闷气要多沟通&quot;&gt;、不要生闷气，要多沟通。&lt;/h3&gt;
+
+&lt;h3 id=&quot;不要害怕说话不要激动语气冲人只要有机会就说话&quot;&gt;、不要害怕说话，不要激动语气冲人，只要有机会就说话。&lt;/h3&gt;
+
+&lt;h3 id=&quot;要冷静要理性保持平稳心情每次说话前都停顿2秒仔细想想&quot;&gt;、要冷静，要理性，保持平稳心情，每次说话前都停顿2秒仔细想想。&lt;/h3&gt;
+
+&lt;h3 id=&quot;不要马虎粗心粗心是错误要细心&quot;&gt;、不要马虎粗心，粗心是错误，要细心。&lt;/h3&gt;
+
+&lt;h3 id=&quot;不要任性要挟别人&quot;&gt;、不要任性，要挟别人。&lt;/h3&gt;
+
+&lt;h3 id=&quot;不要反复无常不要片面做决定要调查研究要把各方面的问题想够想透&quot;&gt;、不要反复无常,不要片面做决定，要调查研究，要把各方面的问题想够想透。&lt;/h3&gt;
+
+&lt;h3 id=&quot;不要悲观自卑往坏处想这会使得越想越导致自己极端认为她很坏要相信他人宽容她人&quot;&gt;不要悲观、自卑、往坏处想，这会使得越想越导致自己极端，认为她很坏，要相信他人、宽容她人。&lt;/h3&gt;
+
+&lt;h3 id=&quot;不要自私心胸狭隘不要为一点矛盾就发泄内心的愤恨和报复他人删除他人的所有联系方式不相往来这是短视行为幼稚病如果有错就立即道歉承认错误必须要宽容理解体谅他人控制情绪不要删除他人联系方式要保持沟通&quot;&gt;不要自私、心胸狭隘，不要为一点矛盾就发泄内心的愤恨和报复他人，删除他人的所有联系方式，不相往来，这是短视行为，幼稚病，如果有错就立即道歉承认错误，必须要宽容，理解体谅他人，控制情绪，不要删除他人联系方式，要保持沟通。&lt;/h3&gt;
+
+&lt;h3 id=&quot;情绪冲突是矛盾的是片面的看待问题而没有客观看待问题抓住主要矛盾分析并解决&quot;&gt;、情绪冲突是矛盾的，是片面的看待问题，而没有客观看待问题，抓住主要矛盾，分析并解决。&lt;/h3&gt;
+
+&lt;h3 id=&quot;不要被动要勤快要勤快要主动要主动对于目标要行动要行动要持之以恒空谈只是枉然&quot;&gt;、不要被动，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;勤快&lt;/code&gt;，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;勤快&lt;/code&gt;，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;主动&lt;/code&gt;，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;主动&lt;/code&gt;.对于目标要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;行动&lt;/code&gt;、要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;行动&lt;/code&gt;，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;持之以恒&lt;/code&gt;，空谈只是枉然.&lt;/h3&gt;
+
+&lt;h3 id=&quot;敬胜怠义胜欲知其雄守其雌&quot;&gt;、敬胜怠，义胜欲。知其雄，守其雌&lt;/h3&gt;
+
+&lt;h3 id=&quot;耐烦要能忍住性子不急躁不厌烦不生气&quot;&gt;耐烦，要能忍住性子不急躁、不厌烦，不生气&lt;/h3&gt;
+
+&lt;h3 id=&quot;不愉快的小事过去就过去了不要斤斤计较心理纠结也不要经常说出抱怨他人&quot;&gt;不愉快的小事过去就过去了，不要斤斤计较心理纠结，也不要经常说出抱怨他人。&lt;/h3&gt;
+
+&lt;h3 id=&quot;与人无怨博爱天下-林肯&quot;&gt;与人无怨，博爱天下	–林肯&lt;/h3&gt;
+
+&lt;h3 id=&quot;多思考养成思考的习惯&quot;&gt;多思考，养成思考的习惯。&lt;/h3&gt;</content><author><name>ShanDaMing</name></author><category term="书籍" /><summary type="html">1、不要批评，不要指责，不要抱怨，要换位思考，理解宽容他人。</summary></entry><entry><title type="html">不礼貌，懒惰</title><link href="https://shandaming.github.io/2021-10-30/sdm" rel="alternate" type="text/html" title="不礼貌，懒惰" /><published>2021-10-30T00:00:00+08:00</published><updated>2021-10-30T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-30/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-30/sdm">&lt;p&gt;回家后奶奶问我话，&lt;!--more--&gt;我直接没礼她。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;不礼貌，还修什么身阿，这点小事都不能改，我真垃圾&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;2、空闲时不做份外的事情，比如上面的胡祥所要问的问题，梁雪连问我AI件所在目录在哪里，我直接回答 不清除，这不是我开发的 这就是拒绝做份外的事情的态度，要摆正态度，有时间就多做份外的事，这样就可以接触到其他技能和行业技术，也能了解公司整体运营资料。&lt;/p&gt;
+&lt;p&gt;下午准备看面试题的，但是后面没看，准备补TDD的，但是做了一点发现很麻烦就不继续做了。&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;不勤奋，懒惰，没有进取心，做份外的事情是很有利的，必须改正这推托的坏毛病。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">1、上午彭辉全和胡祥赵我问小鱼功能相关问题，</summary></entry><entry><title type="html">不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度</title><link href="https://shandaming.github.io/2021-10-27/sdm" rel="alternate" type="text/html" title="不给人面子，懒惰不负责太自我，没有问情事情的详情和急切程度" /><published>2021-10-27T00:00:00+08:00</published><updated>2021-10-27T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-27/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-27/sdm">&lt;p&gt;1、胡详问我接口错误的问题，&lt;!--more--&gt;我当时也看了，当时想休息(就是懒惰)，只是说出原因，而没有帮助他解决。&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;懒惰，不勤奋，不给人面子，我真是垃圾。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2、鹏辉荃让我看看宝立通与小鱼级联不上的问题，我当时看了，也给出他原因了，让他找技术支持，当时他让我去找，我当时很不想去，懒惰、不想听他指挥，我以为要立即去办，然后他说这不急，可以明天帮忙弄，我当时就知道我自身的问题是没有详细的问他，导致&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;我不知道事情是否急切还是不急&lt;/code&gt;，这我要反思，以后有问题，而当时我没时间处理，应该要详细的问下是否急切，后我我还是答应了。&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;不勤奋，懒惰，不乐于助人，太自私，对工作不负责，没有问情事情的详情和急切程度，我真是个畜生，如果真想休息，可以先答应他，按事情的急切优先级等信息来决定是休息几分钟，改善心情，还是立即办理。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;3、李晔让我评估一个项目的SMC3.0录制功能开发天数，我当时以这不是我的任务为由拒绝了，但后面我又答应了。&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;不给人面子这是不对的，应该要乐于帮助他人，不要懒惰，要勤奋。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">1、胡详问我接口错误的问题，</summary></entry><entry><title type="html">工作总结</title><link href="https://shandaming.github.io/2021-10-27/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="工作总结" /><published>2021-10-27T00:00:00+08:00</published><updated>2021-10-27T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-27/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93</id><content type="html" xml:base="https://shandaming.github.io/2021-10-27/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93">&lt;h2 id=&quot;0事业要聚焦始终深耕聚焦的行业禁忌多元化&quot;&gt;0、事业要聚焦，始终深耕聚焦的行业，禁忌多元化。&lt;!--more--&gt;&lt;/h2&gt;
-
-&lt;h2 id=&quot;1做事要认真负责要做到最好要用心不要推托责任要勇于承担责任积极的承担份内份外的事&quot;&gt;1、做事要认真负责，要做到最好,要用心，不要推托责任，要勇于承担责任，积极的承担份内份外的事。&lt;/h2&gt;
-
-&lt;h2 id=&quot;2有困难要变通的思考其他方式&quot;&gt;2、有困难，要变通的思考其他方式。&lt;/h2&gt;
-
-&lt;h2 id=&quot;3做事中有不明白不确定的要问同事和领导多沟通&quot;&gt;3、做事中有不明白，不确定的，要问同事和领导，多沟通。&lt;/h2&gt;
-
-&lt;h2 id=&quot;4任务和事情结论都要在三检查不要粗心要细心&quot;&gt;4、任务和事情结论都要在三检查，不要粗心、要细心。&lt;/h2&gt;
-
-&lt;h2 id=&quot;5需求不明白的一定要拉上项目负责人和相关人员开会讨论讲解直到弄明白为止&quot;&gt;5、需求不明白的，一定要拉上项目负责人和相关人员，开会讨论，讲解，直到弄明白为止。&lt;/h2&gt;
-
-&lt;h2 id=&quot;6要主动推进项目要主动要主动&quot;&gt;6、要主动推进项目，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;主动&lt;/code&gt;，要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;主动&lt;/code&gt;。&lt;/h2&gt;
-
-&lt;h2 id=&quot;6任何决定方案任务要以邮件记录下发送给相关人员和领导&quot;&gt;6、任何决定方案、任务要以&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;邮件&lt;/code&gt;记录下发送给相关人员和领导。&lt;/h2&gt;
-
-&lt;h2 id=&quot;7经常反思工作中的不足和错误任何会议讨论后都要做记录&quot;&gt;7、经常反思工作中的不足和错误。任何会议讨论后，都要做&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;记录&lt;/code&gt;。&lt;/h2&gt;
-
-&lt;h2 id=&quot;8尽量帮助同事&quot;&gt;8、尽量帮助同事。&lt;/h2&gt;
-
-&lt;h2 id=&quot;9要和领导同事搞好关系&quot;&gt;9、要和领导同事搞好关系。&lt;/h2&gt;
-
-&lt;h2 id=&quot;10任何分内份外任务和答应同事的任务都要仔细的安排优先级做记录&quot;&gt;10、任何分内份外任务和答应同事的任务都要仔细的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;安排优先级做记录&lt;/code&gt;。&lt;/h2&gt;
-
-&lt;h2 id=&quot;精力是有限的如果提不起劲想休息则是精力用完了需要安静的休息几分钟恢复精力和改善心情在做安排的任务&quot;&gt;精力是有限的，如果提不起劲、想休息，则是精力用完了，需要安静的休息几分钟恢复精力和改善心情，在做安排的任务。&lt;/h2&gt;
-
-&lt;h2 id=&quot;10努力认真工作是一定的但是如果一直勤恳而很久2年多得不到公司主动加薪这时应该要自己主动提哪些做的还不够好公司不是上升期已经很优秀但领导只想找个能干的人就行&quot;&gt;10、努力认真工作是一定的，但是如果一直勤恳，而很久(2年多)得不到公司主动加薪，这时应该要自己主动提(哪些做的还不够好/公司不是上升期/已经很优秀但领导只想找个能干的人就行)。&lt;/h2&gt;
-
-&lt;h2 id=&quot;工具&quot;&gt;工具&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;因果链 MBA十日谈-118页&lt;/li&gt;
-  &lt;li&gt;思维图 MBA十日谈-127页&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="工作总结" /><summary type="html">0、事业要聚焦，始终深耕聚焦的行业，禁忌多元化。</summary></entry><entry><title type="html">争执反驳、抱怨、不给人面子，不负责太主观</title><link href="https://shandaming.github.io/2021-10-26/sdm" rel="alternate" type="text/html" title="争执反驳、抱怨、不给人面子，不负责太主观" /><published>2021-10-26T00:00:00+08:00</published><updated>2021-10-26T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-26/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-26/sdm">&lt;p&gt;1、王振东找我看华润银行问题，页面上不能修改已经录入的MCU的类型，&lt;!--more--&gt;他就说你们为什么不让它能修改呢，我当时就抱怨他、反驳他说这页面又不是我开发的。&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;抱怨，反驳与人争执，我真是垃圾，蠢货。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2、中石油监控程序将pcms服务给停了，我当时让他们看看主备切换是否是正确的。他们说是好的，后面我又看了下，发现与我想的不同，是监控程序连接数据库的密码已经加密了导致连不上。&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;太相信自己的主观经验，必须要客观的看待问题。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;3、下班王振动说带我回去，但是我极力的拒绝，不给他面子。&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;不给人面子，他带我又没有什么大的利益交换，只是小事情，应该给人面子。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">1、王振东找我看华润银行问题，页面上不能修改已经录入的MCU的类型，</summary></entry><entry><title type="html">不说话，不实践，经常说悲观的话，不给孙润泽面子</title><link href="https://shandaming.github.io/2021-10-25/sdm" rel="alternate" type="text/html" title="不说话，不实践，经常说悲观的话，不给孙润泽面子" /><published>2021-10-25T00:00:00+08:00</published><updated>2021-10-25T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-25/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-25/sdm">&lt;h2 id=&quot;说话内容&quot;&gt;说话内容&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;经常不说话，&lt;!--more--&gt;思维不敏捷，和被人说话时，总是说悲观的话，也不赞赏别人，比如中午吃饭后，孙润泽要加我微信，而我尽然说懒得拿手机，太不给他面子了。
-    &lt;ul&gt;
-      &lt;li&gt;不给人面子，不尊总别人，不说话，这些毛病必须改正。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;下午开发华能的获取SMC2.0通知功能时，没有仔细规划，思考，导致逻辑混乱，思路不清晰，多写了很多无用的代码，这是要值得反思的。
-    &lt;ul&gt;
-      &lt;li&gt;这部分原因是我的知识面窄，要多看看开源的代码构架设计，要刻意练习，要TDD，必须坚持。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">说话内容 经常不说话，</summary></entry><entry><title type="html">没礼貌，抱怨,不给人面子</title><link href="https://shandaming.github.io/2021-10-24/sdm" rel="alternate" type="text/html" title="没礼貌，抱怨,不给人面子" /><published>2021-10-24T00:00:00+08:00</published><updated>2021-10-24T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-24/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-10-24/sdm">&lt;h2 id=&quot;说话内容&quot;&gt;说话内容&lt;/h2&gt;
-&lt;p&gt;1、我问奶奶有没有全无敌，&lt;!--more--&gt;她说你怎么不喊我，我抱怨她没有邦我介绍，她说我之前挑剔，这不好那不好…。&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;抱怨他人，不礼貌，我真实该死。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">说话内容 1、我问奶奶有没有全无敌，</summary></entry><entry><title type="html">大问题:简明哲学导论</title><link href="https://shandaming.github.io/2021-10-24/%E5%A4%A7%E9%97%AE%E9%A2%98-%E7%AE%80%E6%98%8E%E5%93%B2%E5%AD%A6%E5%AF%BC%E8%AE%BA" rel="alternate" type="text/html" title="大问题:简明哲学导论" /><published>2021-10-24T00:00:00+08:00</published><updated>2021-10-24T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-10-24/%E5%A4%A7%E9%97%AE%E9%A2%98:%E7%AE%80%E6%98%8E%E5%93%B2%E5%AD%A6%E5%AF%BC%E8%AE%BA</id><content type="html" xml:base="https://shandaming.github.io/2021-10-24/%E5%A4%A7%E9%97%AE%E9%A2%98-%E7%AE%80%E6%98%8E%E5%93%B2%E5%AD%A6%E5%AF%BC%E8%AE%BA">&lt;ol&gt;
-  &lt;li&gt;经常审查自己的世界观。&lt;!--more--&gt;
-    &lt;ul&gt;
-      &lt;li&gt;反思自己的世界观，改正错误的观念。 2021-10-24&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;内部是看不清自己，要经常外部的审视自己。
-    &lt;ul&gt;
-      &lt;li&gt;举止、习惯、个性、特征，可以录像、找被人说自己的毛病。 2021-10-25&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>ShanDaMing</name></author><category term="书籍" /><summary type="html">经常审查自己的世界观。</summary></entry></feed>
+  &lt;li&gt;懒惰，不勤奋刻苦，这是很危险的，必须改正，明天继续弄。&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">回家后奶奶问我话，</summary></entry></feed>
