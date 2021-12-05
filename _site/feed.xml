@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shandaming.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shandaming.github.io/" rel="alternate" type="text/html" /><updated>2021-12-05T12:52:40+08:00</updated><id>https://shandaming.github.io/feed.xml</id><title type="html">ShanDaMing</title><subtitle>个人博客</subtitle><author><name>chester how</name><email>chesterhow@gmail.com</email></author><entry><title type="html">准备去医院，没号了</title><link href="https://shandaming.github.io/2021-12-05/sdm" rel="alternate" type="text/html" title="准备去医院，没号了" /><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-12-05/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-12-05/sdm">&lt;p&gt;之前因为扁头怕被人用异样眼光看，&lt;!--more--&gt;昨晚就将号取消了，但是今天又想去了，然后发现没有号了，我这做事决心，反复无常、担心害怕的性格真垃圾。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shandaming.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shandaming.github.io/" rel="alternate" type="text/html" /><updated>2021-12-05T18:14:55+08:00</updated><id>https://shandaming.github.io/feed.xml</id><title type="html">ShanDaMing</title><subtitle>个人博客</subtitle><author><name>chester how</name><email>chesterhow@gmail.com</email></author><entry><title type="html">准备去医院，没号了</title><link href="https://shandaming.github.io/2021-12-05/sdm" rel="alternate" type="text/html" title="准备去医院，没号了" /><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><id>https://shandaming.github.io/2021-12-05/sdm</id><content type="html" xml:base="https://shandaming.github.io/2021-12-05/sdm">&lt;p&gt;之前因为扁头怕被人用异样眼光看，&lt;!--more--&gt;昨晚就将号取消了，但是今天又想去了，然后发现没有号了，我这做事决心，反复无常、担心害怕的性格真垃圾。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;决心做的事情没有做到，是因为怕被别人异样的眼光看，担心害怕，其实这没什么，被看了我也不会损失什么，而且决心要做的事情就要克服矛盾，&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;昨晚又看小说熬夜了，这必须改正，看小说浪费了我很多时间。&lt;/p&gt;
+
+&lt;p&gt;晚上我说不吃辣的，我妈说吃辣还是有好处的，我当时心理就来气，语气冲人、向他抱怨的发火 说你到现在都不知道我有咽炎阿，吃辣的会复发，去医院花钱&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;抱怨、指责、又控制不注情绪，心胸狭隘，不耐烦，听不进别人说我不好，真是垃圾。&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;自检表&quot;&gt;自检表&lt;/h3&gt;
 
@@ -54,12 +59,6 @@ table th
 table td:nth-child(1) 
 {
   white-space: nowrap; 
-}
-
-/*第二列宽度*/
-table td:nth-child(2) 
-{
-  width: 200pt;
 }
 
 [].slice.call(document.querySelectorAll('table')).forEach(function(el)
