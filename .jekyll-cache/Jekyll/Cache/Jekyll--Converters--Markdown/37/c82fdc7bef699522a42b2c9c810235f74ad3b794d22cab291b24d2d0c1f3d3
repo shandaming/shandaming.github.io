@@ -1,19 +1,61 @@
-I"�<p>今天上午面试时很紧张，<!--more-->而且在描述和说明时总是口齿不清，思路不清晰</p>
+I"S$<p>之前因为扁头怕被人用异样眼光看，<!--more-->昨晚就将号取消了，但是今天又想去了，然后发现没有号了，我这做事决心，反复无常、担心害怕的性格真垃圾。</p>
 <ul>
-  <li>口齿不清这需要多加练习才行。</li>
+  <li>决心做的事情没有做到，是因为怕被别人异样的眼光看，担心害怕，其实这没什么，被看了我也不会损失什么，而且决心要做的事情就要克服矛盾，</li>
 </ul>
 
-<p>下午都到要面试的公司门口了，但是就没有进去，因为我主观的发现他这公司里。冷清，技术上没有用到后台，全市Qt</p>
-<ul>
-  <li>当时应该进去面试，不实际的看下怎么就知道不好呢，也有我害怕导致的部分原因</li>
-</ul>
-
-<p>晚上我被找不到工作的焦虑所困扰，然后就和罗总说了想回去的事情，我当时就很尴尬</p>
-<ul>
-  <li>吃回头草不知道对不对，到现在心理也没想明白</li>
-</ul>
+<p>昨晚又看小说熬夜了，这必须改正，看小说浪费了我很多时间。</p>
 
 <h3 id="自检表">自检表</h3>
+
+<style>
+table 
+{
+  width: 100%; /*表格宽度*/
+  max-width: 65em; /*表格最大宽度，避免表格过宽*/
+  border: 1px solid #dedede; /*表格外边框设置*/
+  margin: 15px auto; /*外边距*/
+  border-collapse: collapse; /*使用单一线条的边框*/
+  empty-cells: show; /*单元格无内容依旧绘制边框*/
+}
+table th,
+table td {
+  height: 35px; /*统一每一行的默认高度*/
+  border: 1px solid #dedede; /*内部边框样式*/
+  padding: 0 10px; /*内边距*/
+}
+
+/*表头样式*/
+table th
+{
+  font-weight: bold; /*加粗*/
+  text-align: center !important; /*内容居中，加上 !important 避免被 Markdown 样式覆盖*/
+  background: rgba(158,188,226,0.2); /*背景色*/
+}
+
+/*隔行变色*/
+table tbody tr:nth-child(2n) 
+{
+  background: rgba(158,188,226,0.12); 
+}
+
+/*悬浮变色*/
+table tr:hover 
+{
+  background: #efefef; 
+}
+
+/*表头不换行*/
+table th 
+{
+  white-space: nowrap; /*表头内容强制在一行显示*/
+}
+
+/*首列不换行*/
+table td:nth-child(1) 
+{
+  white-space: nowrap; 
+}
+</style>
 
 <table>
   <thead>
@@ -32,14 +74,14 @@
   <tbody>
     <tr>
       <td style="text-align: center">节制</td>
-      <td>早睡早起，食不可饱，饮不过量，零食少吃</td>
+      <td>早睡早起(最好22点前睡，最迟23点睡)，食不可饱，饮不过量，零食少吃</td>
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
     </tr>
     <tr>
       <td style="text-align: center">少言</td>
@@ -65,14 +107,14 @@
     </tr>
     <tr>
       <td style="text-align: center">决心</td>
-      <td>切忌懒惰害怕，该做的事情就决心去做，决心去做的事情就务必完成</td>
+      <td>切忌懒惰、害怕、往坏处想、太武断、没有仔细的全局考虑，该做的事情就决心去做，决心去做的事情就务必完成</td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
       <td style="text-align: center">⚫</td>
       <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
     </tr>
     <tr>
       <td style="text-align: center">节俭</td>
@@ -91,7 +133,7 @@
       <td style="text-align: center">⚫</td>
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
+      <td style="text-align: center">⚫</td>
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
@@ -100,8 +142,8 @@
       <td style="text-align: center">坦诚</td>
       <td>不采用有害的欺骗手段，说话做事要公平公正</td>
       <td style="text-align: center">⚫</td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
@@ -112,7 +154,7 @@
       <td>不做损人的事情，要尽职本分做有益的事情</td>
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
+      <td style="text-align: center">⚫</td>
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
@@ -144,12 +186,12 @@
       <td style="text-align: center">宁静</td>
       <td>不为琐事，寻常之事，和不可避免之事乱了方寸，要耐烦，忍住性子不急躁不厌烦不嫉妒不贪心，不要自私自利，要考虑他人</td>
       <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
       <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
     </tr>
     <tr>
       <td style="text-align: center">节欲</td>
@@ -176,6 +218,17 @@
     <tr>
       <td style="text-align: center">礼貌</td>
       <td>要微笑，给人面子，尊敬别人，要打招呼，以人为本</td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center">⚫</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">知足</td>
+      <td>不要对相亲对象、公司工作内容、公司地点太挑剔，不要对工资太贪婪</td>
       <td style="text-align: center">⚫</td>
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
