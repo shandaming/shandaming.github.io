@@ -1,4 +1,4 @@
-I"S$<p>之前因为扁头怕被人用异样眼光看，<!--more-->昨晚就将号取消了，但是今天又想去了，然后发现没有号了，我这做事决心，反复无常、担心害怕的性格真垃圾。</p>
+I"�%<p>之前因为扁头怕被人用异样眼光看，<!--more-->昨晚就将号取消了，但是今天又想去了，然后发现没有号了，我这做事决心，反复无常、担心害怕的性格真垃圾。</p>
 <ul>
   <li>决心做的事情没有做到，是因为怕被别人异样的眼光看，担心害怕，其实这没什么，被看了我也不会损失什么，而且决心要做的事情就要克服矛盾，</li>
 </ul>
@@ -54,6 +54,28 @@ table th
 table td:nth-child(1) 
 {
   white-space: nowrap; 
+}
+
+/*第二列宽度*/
+table td:nth-child(2) 
+{
+  width: 300pt;
+}
+
+[].slice.call(document.querySelectorAll('table')).forEach(function(el)
+{
+  var wrapper = document.createElement('div');
+  wrapper.className = 'table-area';
+  el.parentNode.insertBefore(wrapper, el);
+  el.parentNode.removeChild(el);
+  wrapper.appendChild(el);
+})
+
+$("table").wrap("<div class='table-area'></div>");
+
+.table-area 
+{
+  overflow: auto;
 }
 </style>
 

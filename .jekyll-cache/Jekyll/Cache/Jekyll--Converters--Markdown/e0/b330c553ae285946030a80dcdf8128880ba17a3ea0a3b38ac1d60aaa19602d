@@ -1,4 +1,4 @@
-I"�!<p>之前因为扁头怕被人用异样眼光看，<!--more-->昨晚就将号取消了，但是今天又想去了，然后发现没有号了，我这做事决心，反复无常、担心害怕的性格真垃圾。</p>
+I"�%<p>之前因为扁头怕被人用异样眼光看，<!--more-->昨晚就将号取消了，但是今天又想去了，然后发现没有号了，我这做事决心，反复无常、担心害怕的性格真垃圾。</p>
 <ul>
   <li>决心做的事情没有做到，是因为怕被别人异样的眼光看，担心害怕，其实这没什么，被看了我也不会损失什么，而且决心要做的事情就要克服矛盾，</li>
 </ul>
@@ -8,27 +8,74 @@
 <h3 id="自检表">自检表</h3>
 
 <style>
-/*表头不换行*/
+table 
+{
+  width: 100%; /*表格宽度*/
+  max-width: 65em; /*表格最大宽度，避免表格过宽*/
+  border: 1px solid #dedede; /*表格外边框设置*/
+  margin: 15px auto; /*外边距*/
+  border-collapse: collapse; /*使用单一线条的边框*/
+  empty-cells: show; /*单元格无内容依旧绘制边框*/
+}
+table th,
+table td {
+  height: 35px; /*统一每一行的默认高度*/
+  border: 1px solid #dedede; /*内部边框样式*/
+  padding: 0 10px; /*内边距*/
+}
+
+/*表头样式*/
 table th
 {
   font-weight: bold; /*加粗*/
+  text-align: center !important; /*内容居中，加上 !important 避免被 Markdown 样式覆盖*/
   background: rgba(158,188,226,0.2); /*背景色*/
 }
 
+/*隔行变色*/
 table tbody tr:nth-child(2n) 
 {
   background: rgba(158,188,226,0.12); 
 }
 
+/*悬浮变色*/
 table tr:hover 
 {
-    background: #efefef; 
+  background: #efefef; 
 }
 
 /*表头不换行*/
 table th 
 {
-    white-space: nowrap; /*表头内容强制在一行显示*/
+  white-space: nowrap; /*表头内容强制在一行显示*/
+}
+
+/*首列不换行*/
+table td:nth-child(1) 
+{
+  white-space: nowrap; 
+}
+
+/*首列不换行*/
+table td:nth-child(1) 
+{
+  white-space: nowrap; 
+}
+
+[].slice.call(document.querySelectorAll('table')).forEach(function(el)
+{
+  var wrapper = document.createElement('div');
+  wrapper.className = 'table-area';
+  el.parentNode.insertBefore(wrapper, el);
+  el.parentNode.removeChild(el);
+  wrapper.appendChild(el);
+})
+
+$("table").wrap("<div class='table-area'></div>");
+
+.table-area 
+{
+  overflow: auto;
 }
 </style>
 
