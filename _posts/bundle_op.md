@@ -6,4 +6,4 @@ tags: 技术
 excerpt_separator: <!--more-->
 ---
 
-1、bundle exec jekyll serve<!--more-->。
+bundle exec jekyll serve<!--more-->。
