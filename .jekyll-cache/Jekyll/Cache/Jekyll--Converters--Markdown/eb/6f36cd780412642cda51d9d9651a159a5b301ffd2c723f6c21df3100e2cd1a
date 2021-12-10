@@ -1,0 +1,14 @@
+I"2<p>Sticky, or pinned, posts are featured on the top of every page. Tale provides some flexibility when it comes to this feature.<!--more--> There is no limit on the number of sticky posts you can have. Although do note that each page will show all your sticky posts + the paginated posts. So if you have 4 sticky posts and 5 posts per page, each page can display up to 9 posts.</p>
+
+<h2 id="making-a-post-sticky">Making a post “sticky”</h2>
+
+<p>Add <code class="language-plaintext highlighter-rouge">sticky: true</code> to the frontmatter of your blog post.</p>
+
+<h3 id="exclude-sticky-post-from-paginated-posts">Exclude sticky post from paginated posts</h3>
+
+<p>By default, sticky posts are still included in the paginated posts. To exclude a sticky post from paginated posts, add <code class="language-plaintext highlighter-rouge">hidden: true</code> to the frontmatter of that blog post.</p>
+
+<h2 id="example">Example</h2>
+
+<p>See the <a href="https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md">“Introducing Tale” post</a>.</p>
+:ET

@@ -1,6 +1,7 @@
 # Site settings
 title:          ShanDaMing
 description:    "个人博客"
+baseurl:        "/tale"
 url:            "https://shandaming.github.io"
 
 # Google Analytics
@@ -8,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         chester how
+  name:         Chester How
   url:          https://chester.how
   email:        chesterhow@gmail.com
 
@@ -40,15 +41,5 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 disqus:         jekyll-tale
 
 theme:      tale
-
 permalink:  /:year-:month-:day/:title
 paginate:   5
-
-remote_theme: chesterhow/tale
-
-permalink:    /:year-:month-:day/:title
-paginate:     5
-
-plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
