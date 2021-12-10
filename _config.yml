@@ -1,7 +1,7 @@
 # Site settings
 title:          ShanDaMing
 description:    "个人博客"
-baseurl:        "/tale"
+# baseurl:        "/tale"
 url:            "https://shandaming.github.io"
 
 # Google Analytics
@@ -41,5 +41,3 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 disqus:         jekyll-tale
 
 theme:      tale
-permalink:  /:year-:month-:day/:title
-paginate:   5

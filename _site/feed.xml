@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/tale/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/tale/" rel="alternate" type="text/html" /><updated>2021-12-10T19:33:56+08:00</updated><id>http://localhost:4000/tale/feed.xml</id><title type="html">ShanDaMing</title><subtitle>个人博客</subtitle><author><name>Chester How</name><email>chesterhow@gmail.com</email></author><entry><title type="html">又在焦虑，纠结，担心害怕</title><link href="http://localhost:4000/tale/2021-12-10/sdm" rel="alternate" type="text/html" title="又在焦虑，纠结，担心害怕" /><published>2021-12-10T00:00:00+08:00</published><updated>2021-12-10T00:00:00+08:00</updated><id>http://localhost:4000/tale/2021-12-10/sdm</id><content type="html" xml:base="http://localhost:4000/tale/2021-12-10/sdm">&lt;p&gt;昨晚熬夜&lt;!--more--&gt;，又纠结回公司尴尬，又在搜索相关的信息，还有公司发展，优柔寡断、反复无常的性格真是恶劣。既然决定回去，就不要乱想了，好好面对，好好做好自己和事情。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-10T19:40:40+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ShanDaMing</title><subtitle>个人博客</subtitle><author><name>Chester How</name><email>chesterhow@gmail.com</email></author><entry><title type="html">又在焦虑，纠结，担心害怕</title><link href="http://localhost:4000/2021-12-10/sdm" rel="alternate" type="text/html" title="又在焦虑，纠结，担心害怕" /><published>2021-12-10T00:00:00+08:00</published><updated>2021-12-10T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-10/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-10/sdm">&lt;p&gt;昨晚熬夜&lt;!--more--&gt;，又纠结回公司尴尬，又在搜索相关的信息，还有公司发展，优柔寡断、反复无常的性格真是恶劣。既然决定回去，就不要乱想了，好好面对，好好做好自己和事情。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;不要在胡思乱想，决定了就去做，也不要在想公司没有发展，记住“物来顺应，未来不迎，当时不杂，过往不念”&lt;/li&gt;
 &lt;/ul&gt;
@@ -257,7 +257,7 @@ $(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;
 {
   overflow: auto;
 }
-&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">昨晚熬夜</summary></entry><entry><title type="html">如何赢得朋友和影响他人</title><link href="http://localhost:4000/tale/2021-12-10/%E5%A6%82%E4%BD%95%E8%B5%A2%E5%BE%97%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%BD%B1%E5%93%8D%E4%BB%96%E4%BA%BA" rel="alternate" type="text/html" title="如何赢得朋友和影响他人" /><published>2021-12-10T00:00:00+08:00</published><updated>2021-12-10T00:00:00+08:00</updated><id>http://localhost:4000/tale/2021-12-10/%E5%A6%82%E4%BD%95%E8%B5%A2%E5%BE%97%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%BD%B1%E5%93%8D%E4%BB%96%E4%BA%BA</id><content type="html" xml:base="http://localhost:4000/tale/2021-12-10/%E5%A6%82%E4%BD%95%E8%B5%A2%E5%BE%97%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%BD%B1%E5%93%8D%E4%BB%96%E4%BA%BA">&lt;h3 id=&quot;1不要批评不要指责不要抱怨要换位思考理解宽容他人&quot;&gt;1、不要批评，不要指责，不要抱怨，要换位思考，理解宽容他人。&lt;!--more--&gt;&lt;/h3&gt;
+&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">昨晚熬夜</summary></entry><entry><title type="html">如何赢得朋友和影响他人</title><link href="http://localhost:4000/2021-12-10/%E5%A6%82%E4%BD%95%E8%B5%A2%E5%BE%97%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%BD%B1%E5%93%8D%E4%BB%96%E4%BA%BA" rel="alternate" type="text/html" title="如何赢得朋友和影响他人" /><published>2021-12-10T00:00:00+08:00</published><updated>2021-12-10T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-10/%E5%A6%82%E4%BD%95%E8%B5%A2%E5%BE%97%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%BD%B1%E5%93%8D%E4%BB%96%E4%BA%BA</id><content type="html" xml:base="http://localhost:4000/2021-12-10/%E5%A6%82%E4%BD%95%E8%B5%A2%E5%BE%97%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%BD%B1%E5%93%8D%E4%BB%96%E4%BA%BA">&lt;h3 id=&quot;1不要批评不要指责不要抱怨要换位思考理解宽容他人&quot;&gt;1、不要批评，不要指责，不要抱怨，要换位思考，理解宽容他人。&lt;!--more--&gt;&lt;/h3&gt;
 
 &lt;h3 id=&quot;2要感谢他人赞美鼓励他人体贴关切他人&quot;&gt;2、要感谢他人，赞美鼓励他人，体贴关切他人。&lt;/h3&gt;
 
@@ -352,7 +352,7 @@ $(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;
 
 &lt;h3 id=&quot;多思考养成思考的习惯&quot;&gt;多思考，养成思考的习惯。&lt;/h3&gt;
 
-&lt;p&gt;坚持学习&lt;strong&gt;辩证法&lt;/strong&gt;和&lt;strong&gt;多元思维模型&lt;/strong&gt;，并始终用&lt;strong&gt;辩证法&lt;/strong&gt;和&lt;strong&gt;多元思维模型&lt;/strong&gt;思考&lt;/p&gt;</content><author><name>ShanDaMing</name></author><category term="书籍" /><summary type="html">1、不要批评，不要指责，不要抱怨，要换位思考，理解宽容他人。</summary></entry><entry><title type="html">工作总结</title><link href="http://localhost:4000/tale/2021-12-10/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="工作总结" /><published>2021-12-10T00:00:00+08:00</published><updated>2021-12-10T00:00:00+08:00</updated><id>http://localhost:4000/tale/2021-12-10/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/tale/2021-12-10/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93">&lt;h2 id=&quot;要关注自己的事业-你的职业并不一定是你的事业事业的关键是增加资产-赚钱就是寻找机会寻找能带来现金流的资产项-&quot;&gt;要关注自己的事业 你的职业并不一定是你的事业，事业的关键是增加资产 赚钱就是寻找机会，寻找能带来现金流的资产项 &lt;!--more--&gt;&lt;/h2&gt;
+&lt;p&gt;坚持学习&lt;strong&gt;辩证法&lt;/strong&gt;和&lt;strong&gt;多元思维模型&lt;/strong&gt;，并始终用&lt;strong&gt;辩证法&lt;/strong&gt;和&lt;strong&gt;多元思维模型&lt;/strong&gt;思考&lt;/p&gt;</content><author><name>ShanDaMing</name></author><category term="书籍" /><summary type="html">1、不要批评，不要指责，不要抱怨，要换位思考，理解宽容他人。</summary></entry><entry><title type="html">工作总结</title><link href="http://localhost:4000/2021-12-10/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="工作总结" /><published>2021-12-10T00:00:00+08:00</published><updated>2021-12-10T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-10/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/2021-12-10/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93">&lt;h2 id=&quot;要关注自己的事业-你的职业并不一定是你的事业事业的关键是增加资产-赚钱就是寻找机会寻找能带来现金流的资产项-&quot;&gt;要关注自己的事业 你的职业并不一定是你的事业，事业的关键是增加资产 赚钱就是寻找机会，寻找能带来现金流的资产项 &lt;!--more--&gt;&lt;/h2&gt;
 
 &lt;h2 id=&quot;始终投资自己和自己的事业&quot;&gt;始终投资自己和自己的事业&lt;/h2&gt;
 
@@ -398,7 +398,7 @@ $(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;
 &lt;ul&gt;
   &lt;li&gt;因果链 MBA十日谈-118页&lt;/li&gt;
   &lt;li&gt;思维图 MBA十日谈-127页&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="工作总结" /><summary type="html">要关注自己的事业 你的职业并不一定是你的事业，事业的关键是增加资产 赚钱就是寻找机会，寻找能带来现金流的资产项</summary></entry><entry><title type="html">反复无常，担心害怕</title><link href="http://localhost:4000/tale/2021-12-09/sdm" rel="alternate" type="text/html" title="反复无常，担心害怕" /><published>2021-12-09T00:00:00+08:00</published><updated>2021-12-09T00:00:00+08:00</updated><id>http://localhost:4000/tale/2021-12-09/sdm</id><content type="html" xml:base="http://localhost:4000/tale/2021-12-09/sdm">&lt;p&gt;上午面试后，问了些linux网络层协议问题，还有一些命令等&lt;!--more--&gt;我心理又担心不会通过，果然下午他们领导联系我说我大专学历，他们只招本科，或优秀的人，说我频繁跳槽，这让我很火大&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>ShanDaMing</name></author><category term="工作总结" /><summary type="html">要关注自己的事业 你的职业并不一定是你的事业，事业的关键是增加资产 赚钱就是寻找机会，寻找能带来现金流的资产项</summary></entry><entry><title type="html">反复无常，担心害怕</title><link href="http://localhost:4000/2021-12-09/sdm" rel="alternate" type="text/html" title="反复无常，担心害怕" /><published>2021-12-09T00:00:00+08:00</published><updated>2021-12-09T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-09/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-09/sdm">&lt;p&gt;上午面试后，问了些linux网络层协议问题，还有一些命令等&lt;!--more--&gt;我心理又担心不会通过，果然下午他们领导联系我说我大专学历，他们只招本科，或优秀的人，说我频繁跳槽，这让我很火大&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;心理很生气，也失望，不要担心。&lt;/li&gt;
 &lt;/ul&gt;
@@ -657,7 +657,7 @@ $(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;
 {
   overflow: auto;
 }
-&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">上午面试后，问了些linux网络层协议问题，还有一些命令等</summary></entry><entry><title type="html">看小说熬夜，反复无常</title><link href="http://localhost:4000/tale/2021-12-08/sdm" rel="alternate" type="text/html" title="看小说熬夜，反复无常" /><published>2021-12-08T00:00:00+08:00</published><updated>2021-12-08T00:00:00+08:00</updated><id>http://localhost:4000/tale/2021-12-08/sdm</id><content type="html" xml:base="http://localhost:4000/tale/2021-12-08/sdm">&lt;p&gt;今天看到又没有公司面试电话，&lt;!--more--&gt;我心理又担忧了，又在优柔寡断上看是不是该吃回头草。&lt;/p&gt;
+&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">上午面试后，问了些linux网络层协议问题，还有一些命令等</summary></entry><entry><title type="html">看小说熬夜，反复无常</title><link href="http://localhost:4000/2021-12-08/sdm" rel="alternate" type="text/html" title="看小说熬夜，反复无常" /><published>2021-12-08T00:00:00+08:00</published><updated>2021-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-08/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-08/sdm">&lt;p&gt;今天看到又没有公司面试电话，&lt;!--more--&gt;我心理又担忧了，又在优柔寡断上看是不是该吃回头草。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;昨天决定的事情又动摇了，我真垃圾。&lt;/li&gt;
 &lt;/ul&gt;
@@ -918,7 +918,7 @@ $(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;
 {
   overflow: auto;
 }
-&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">今天看到又没有公司面试电话，</summary></entry><entry><title type="html">看小说熬夜</title><link href="http://localhost:4000/tale/2021-12-07/sdm" rel="alternate" type="text/html" title="看小说熬夜" /><published>2021-12-07T00:00:00+08:00</published><updated>2021-12-07T00:00:00+08:00</updated><id>http://localhost:4000/tale/2021-12-07/sdm</id><content type="html" xml:base="http://localhost:4000/tale/2021-12-07/sdm">&lt;p&gt;今天我又查了下鹏云网络公司参保人数，&lt;!--more--&gt;发现他们参保人数不足10人，给我的印象就是个小小公司，想了想昨天有个机会，公司地点远，而又是小企业，我又发信息说不去了，我真是反复无常。&lt;/p&gt;
+&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">今天看到又没有公司面试电话，</summary></entry><entry><title type="html">看小说熬夜</title><link href="http://localhost:4000/2021-12-07/sdm" rel="alternate" type="text/html" title="看小说熬夜" /><published>2021-12-07T00:00:00+08:00</published><updated>2021-12-07T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-07/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-07/sdm">&lt;p&gt;今天我又查了下鹏云网络公司参保人数，&lt;!--more--&gt;发现他们参保人数不足10人，给我的印象就是个小小公司，想了想昨天有个机会，公司地点远，而又是小企业，我又发信息说不去了，我真是反复无常。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;决心做的事情没有做到，而且之前没有深入的想想自己想去的公司特点，在找不到工作的事情上有压力导致自己乱投，投了又反复无常说不去，就像北信源一样，导致现在都不看我，反复无常是有代价的，我太垃圾了。&lt;/li&gt;
 &lt;/ul&gt;
@@ -1176,7 +1176,7 @@ $(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;
 {
   overflow: auto;
 }
-&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">今天我又查了下鹏云网络公司参保人数，</summary></entry><entry><title type="html">看小说熬夜</title><link href="http://localhost:4000/tale/2021-12-06/sdm" rel="alternate" type="text/html" title="看小说熬夜" /><published>2021-12-06T00:00:00+08:00</published><updated>2021-12-06T00:00:00+08:00</updated><id>http://localhost:4000/tale/2021-12-06/sdm</id><content type="html" xml:base="http://localhost:4000/tale/2021-12-06/sdm">&lt;p&gt;昨晚又看小说熬夜了，&lt;!--more--&gt;明明已经定下22点睡，最迟23点睡，但是还是看小说，我意志力真差劲，我真是垃圾。&lt;/p&gt;
+&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">今天我又查了下鹏云网络公司参保人数，</summary></entry><entry><title type="html">看小说熬夜</title><link href="http://localhost:4000/2021-12-06/sdm" rel="alternate" type="text/html" title="看小说熬夜" /><published>2021-12-06T00:00:00+08:00</published><updated>2021-12-06T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-06/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-06/sdm">&lt;p&gt;昨晚又看小说熬夜了，&lt;!--more--&gt;明明已经定下22点睡，最迟23点睡，但是还是看小说，我意志力真差劲，我真是垃圾。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;决心做的事情没有做到，没有战胜欲望，我太垃圾了&lt;/li&gt;
 &lt;/ul&gt;
@@ -1437,7 +1437,7 @@ $(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;
 {
   overflow: auto;
 }
-&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">昨晚又看小说熬夜了，</summary></entry><entry><title type="html">准备去医院，没号了</title><link href="http://localhost:4000/tale/2021-12-05/sdm" rel="alternate" type="text/html" title="准备去医院，没号了" /><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><id>http://localhost:4000/tale/2021-12-05/sdm</id><content type="html" xml:base="http://localhost:4000/tale/2021-12-05/sdm">&lt;p&gt;之前因为扁头怕被人用异样眼光看，&lt;!--more--&gt;昨晚就将号取消了，但是今天又想去了，然后发现没有号了，我这做事决心，反复无常、担心害怕的性格真垃圾。&lt;/p&gt;
+&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">昨晚又看小说熬夜了，</summary></entry><entry><title type="html">准备去医院，没号了</title><link href="http://localhost:4000/2021-12-05/sdm" rel="alternate" type="text/html" title="准备去医院，没号了" /><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-05/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-05/sdm">&lt;p&gt;之前因为扁头怕被人用异样眼光看，&lt;!--more--&gt;昨晚就将号取消了，但是今天又想去了，然后发现没有号了，我这做事决心，反复无常、担心害怕的性格真垃圾。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;决心做的事情没有做到，是因为怕被别人异样的眼光看，担心害怕，其实这没什么，被看了我也不会损失什么，而且决心要做的事情就要克服矛盾，&lt;/li&gt;
 &lt;/ul&gt;
@@ -1698,7 +1698,7 @@ $(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;
 {
   overflow: auto;
 }
-&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">之前因为扁头怕被人用异样眼光看，</summary></entry><entry><title type="html">担心扁头不想明天去医院</title><link href="http://localhost:4000/tale/2021-12-04/sdm" rel="alternate" type="text/html" title="担心扁头不想明天去医院" /><published>2021-12-04T00:00:00+08:00</published><updated>2021-12-04T00:00:00+08:00</updated><id>http://localhost:4000/tale/2021-12-04/sdm</id><content type="html" xml:base="http://localhost:4000/tale/2021-12-04/sdm">&lt;p&gt;今天又看看了短头发的扁头，&lt;!--more--&gt;又很担心明天去医院被人看，有些自卑，心理很不舒服&lt;/p&gt;
+&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">之前因为扁头怕被人用异样眼光看，</summary></entry><entry><title type="html">担心扁头不想明天去医院</title><link href="http://localhost:4000/2021-12-04/sdm" rel="alternate" type="text/html" title="担心扁头不想明天去医院" /><published>2021-12-04T00:00:00+08:00</published><updated>2021-12-04T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-04/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-04/sdm">&lt;p&gt;今天又看看了短头发的扁头，&lt;!--more--&gt;又很担心明天去医院被人看，有些自卑，心理很不舒服&lt;/p&gt;
 
 &lt;h3 id=&quot;自检表&quot;&gt;自检表&lt;/h3&gt;
 
@@ -1883,7 +1883,7 @@ $(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;
       &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">今天又看看了短头发的扁头，</summary></entry><entry><title type="html">担心扁头</title><link href="http://localhost:4000/tale/2021-12-03/sdm" rel="alternate" type="text/html" title="担心扁头" /><published>2021-12-03T00:00:00+08:00</published><updated>2021-12-03T00:00:00+08:00</updated><id>http://localhost:4000/tale/2021-12-03/sdm</id><content type="html" xml:base="http://localhost:4000/tale/2021-12-03/sdm">&lt;p&gt;剪了头发后，&lt;!--more--&gt;扁头出来了，担心周日去不去医院，下午有公司让我明天去面试，我也是因为担心扁头而拒绝，听那边的话，似乎我拒绝后就没希望再次面试了。&lt;/p&gt;
+&lt;/table&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">今天又看看了短头发的扁头，</summary></entry><entry><title type="html">担心扁头</title><link href="http://localhost:4000/2021-12-03/sdm" rel="alternate" type="text/html" title="担心扁头" /><published>2021-12-03T00:00:00+08:00</published><updated>2021-12-03T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-03/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-03/sdm">&lt;p&gt;剪了头发后，&lt;!--more--&gt;扁头出来了，担心周日去不去医院，下午有公司让我明天去面试，我也是因为担心扁头而拒绝，听那边的话，似乎我拒绝后就没希望再次面试了。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;不要想的太多，做自己的事，要静下心。&lt;/li&gt;
 &lt;/ul&gt;
