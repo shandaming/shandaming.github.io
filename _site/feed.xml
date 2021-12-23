@@ -1,4 +1,270 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-22T21:02:27+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ShanDaMing</title><subtitle>个人博客</subtitle><author><name>chester how</name><email>chesterhow@gmail.com</email></author><entry><title type="html">不耐烦急躁，不正确的做事方式,做事欠考虑</title><link href="http://localhost:4000/2021-12-22/sdm" rel="alternate" type="text/html" title="不耐烦急躁，不正确的做事方式,做事欠考虑" /><published>2021-12-22T00:00:00+08:00</published><updated>2021-12-22T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-22/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-22/sdm">&lt;p&gt;今天产品开发进度已经慢了&lt;!--more--&gt;，而还有华润问题、点投问题找我看，心理很烦、急躁。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-23T20:10:31+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ShanDaMing</title><subtitle>个人博客</subtitle><author><name>chester how</name><email>chesterhow@gmail.com</email></author><entry><title type="html">做事方式不对总是找借口，不耐烦</title><link href="http://localhost:4000/2021-12-23/sdm" rel="alternate" type="text/html" title="做事方式不对总是找借口，不耐烦" /><published>2021-12-23T00:00:00+08:00</published><updated>2021-12-23T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-23/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-23/sdm">&lt;p&gt;今天我总是以我忙为借口推托其他事情&lt;!--more--&gt;，潘龙让我将程序给他，他自己调试，而我当时没有想到？在他说后，我没有理他。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;不礼貌，别人问我，最少应答下，而且我做事方式不对，应该将程序给他，让他自己调试。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;别人问我问题时，我总是不应答，也不理睬，嫌烦。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;要耐烦，不急躁。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;下午调试程序，用打印日志的方式定位问题，已经定位到位置了，但是没有看出来问题，最后在服务器上安装环境调试，发现是我在while循环后加了‘;’，导致死循环，之前没有仔细看，真是粗心，而且在release版本优化后，CString引用的值没了，这很奇怪，还没发现是什么原因导致的，还需要研究。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;不要粗心，粗心是错误，会导致出问题的。要细心&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;今天说按照工作总结上的工作几十分钟就休息几分钟，这没做到，一定要注意，身体最重要。&lt;/p&gt;
+
+&lt;h3 id=&quot;自检表&quot;&gt;自检表&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;美德&lt;/th&gt;
+      &lt;th&gt;描述&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;星期一&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;星期二&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;星期三&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;星期四&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;星期五&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;星期六&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;星期日&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;节制&lt;/td&gt;
+      &lt;td&gt;早睡早起(最好22点前睡，最迟23点睡)，食不可饱，饮不过量，零食少吃&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;少言&lt;/td&gt;
+      &lt;td&gt;不说无聊琐碎的话，只讲对人对己有益的话&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;条理&lt;/td&gt;
+      &lt;td&gt;物归其所放置有序，事有轻重缓急，事需限期，各按其时&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;决心&lt;/td&gt;
+      &lt;td&gt;切忌懒惰、害怕、往坏处想、太武断、没有仔细的全局考虑，该做的事情就决心去做，决心去做的事情就务必完成&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;节俭&lt;/td&gt;
+      &lt;td&gt;杜绝浪费，开销均要对人对己有益&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;勤勉&lt;/td&gt;
+      &lt;td&gt;不做无益的事，要珍稀时间，总忙有益之事,避免懒惰粗心，用心认真仔细的做事&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;坦诚&lt;/td&gt;
+      &lt;td&gt;不采用有害的欺骗手段，说话做事要公平公正&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;公正&lt;/td&gt;
+      &lt;td&gt;不做损人的事情，不自私心胸狭隘，要尽职本分做有益的事情&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;中庸&lt;/td&gt;
+      &lt;td&gt;避免极端，不要疑心、乱想(要讲证据)，要辨证的多元的换位思考&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;整洁&lt;/td&gt;
+      &lt;td&gt;不要邋遢脏乱，避免身体、服装和居所不洁&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;宁静&lt;/td&gt;
+      &lt;td&gt;不为琐事，寻常之事，和不可避免之事乱了方寸，要耐烦，忍住性子不急躁不厌烦不嫉妒不贪心，不要自私自利，要考虑他人&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;节欲&lt;/td&gt;
+      &lt;td&gt;少行房事，修身养性，也不因异性关系损害和他人的关系&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;谦逊&lt;/td&gt;
+      &lt;td&gt;效法耶稣和苏格拉底&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;礼貌&lt;/td&gt;
+      &lt;td&gt;要微笑，给人面子，尊敬别人，要打招呼，以人为本&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;知足&lt;/td&gt;
+      &lt;td&gt;不要对相亲对象、公司工作内容、公司地点太挑剔，不要对工资太贪婪&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;style&gt;
+table 
+{
+  width: 100%; /*表格宽度*/
+  max-width: 65em; /*表格最大宽度，避免表格过宽*/
+  border: 1px solid #dedede; /*表格外边框设置*/
+  margin: 15px auto; /*外边距*/
+  border-collapse: collapse; /*使用单一线条的边框*/
+  empty-cells: show; /*单元格无内容依旧绘制边框*/
+}
+table th,
+table td {
+  height: 35px; /*统一每一行的默认高度*/
+  border: 1px solid #dedede; /*内部边框样式*/
+  padding: 0 10px; /*内边距*/
+}
+
+/*表头样式*/
+table th
+{
+  font-weight: bold; /*加粗*/
+  text-align: center !important; /*内容居中，加上 !important 避免被 Markdown 样式覆盖*/
+  background: rgba(158,188,226,0.2); /*背景色*/
+}
+
+/*隔行变色*/
+table tbody tr:nth-child(2n) 
+{
+  background: rgba(158,188,226,0.12); 
+}
+
+/*悬浮变色*/
+table tr:hover 
+{
+  background: #efefef; 
+}
+
+/*表头不换行*/
+table th 
+{
+  white-space: nowrap; /*表头内容强制在一行显示*/
+}
+
+/*首列不换行*/
+table td:nth-child(1) 
+{
+  white-space: nowrap; 
+}
+
+[].slice.call(document.querySelectorAll('table')).forEach(function(el)
+{
+  var wrapper = document.createElement('div');
+  wrapper.className = 'table-area';
+  el.parentNode.insertBefore(wrapper, el);
+  el.parentNode.removeChild(el);
+  wrapper.appendChild(el);
+})
+
+$(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;);
+
+.table-area 
+{
+  overflow: auto;
+}
+&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">今天我总是以我忙为借口推托其他事情</summary></entry><entry><title type="html">不耐烦急躁，不正确的做事方式,做事欠考虑</title><link href="http://localhost:4000/2021-12-22/sdm" rel="alternate" type="text/html" title="不耐烦急躁，不正确的做事方式,做事欠考虑" /><published>2021-12-22T00:00:00+08:00</published><updated>2021-12-22T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-22/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-22/sdm">&lt;p&gt;今天产品开发进度已经慢了&lt;!--more--&gt;，而还有华润问题、点投问题找我看，心理很烦、急躁。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;要冷静，不要急躁，要耐烦，想想事情是做不完的，而且这些问题拖慢我的进度，应该和罗总说。&lt;/li&gt;
 &lt;/ul&gt;
@@ -2174,268 +2440,4 @@ $(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;
 {
   overflow: auto;
 }
-&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">今天上午开发程序</summary></entry><entry><title type="html">胡思乱想</title><link href="http://localhost:4000/2021-12-14/sdm" rel="alternate" type="text/html" title="胡思乱想" /><published>2021-12-14T00:00:00+08:00</published><updated>2021-12-14T00:00:00+08:00</updated><id>http://localhost:4000/2021-12-14/sdm</id><content type="html" xml:base="http://localhost:4000/2021-12-14/sdm">&lt;p&gt;早上睡醒后胡思乱想&lt;!--more--&gt;，浪费了些时间，下午看到罗总为新同事讲解产品代码功能，给我一种不重用我的感觉，又让我胡思乱想，而且做的不开心，想明年离职。&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;疑心病不能犯。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;下午弄新项目，直接开始写代码了，没有先弄下需求和设计，这是错误的做事方式&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;新项目，1、应该先需求分析，2、在做软件设计，3、最后在做编码。之后在从1到3步骤迭代。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;今天下午我忘了登陆接口网站的账号，后面我尝试了几次都不对，也没有去找罗总，都准备放弃了。&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;这做的不对，尝试几次后不行，就应该去找罗总，而不是放弃。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;自检表&quot;&gt;自检表&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;美德&lt;/th&gt;
-      &lt;th&gt;描述&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;星期一&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;星期二&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;星期三&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;星期四&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;星期五&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;星期六&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;星期日&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;节制&lt;/td&gt;
-      &lt;td&gt;早睡早起(最好22点前睡，最迟23点睡)，食不可饱，饮不过量，零食少吃&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;少言&lt;/td&gt;
-      &lt;td&gt;不说无聊琐碎的话，只讲对人对己有益的话&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;条理&lt;/td&gt;
-      &lt;td&gt;物归其所放置有序，事有轻重缓急，事需限期，各按其时&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;决心&lt;/td&gt;
-      &lt;td&gt;切忌懒惰、害怕、往坏处想、太武断、没有仔细的全局考虑，该做的事情就决心去做，决心去做的事情就务必完成&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;节俭&lt;/td&gt;
-      &lt;td&gt;杜绝浪费，开销均要对人对己有益&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;勤勉&lt;/td&gt;
-      &lt;td&gt;不做无益的事，要珍稀时间，总忙有益之事,避免懒惰粗心，用心认真仔细的做事&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;坦诚&lt;/td&gt;
-      &lt;td&gt;不采用有害的欺骗手段，说话做事要公平公正&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;公正&lt;/td&gt;
-      &lt;td&gt;不做损人的事情，不自私心胸狭隘，要尽职本分做有益的事情&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;中庸&lt;/td&gt;
-      &lt;td&gt;避免极端，不要疑心、乱想(要讲证据)，要辨证的多元的换位思考&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;整洁&lt;/td&gt;
-      &lt;td&gt;不要邋遢脏乱，避免身体、服装和居所不洁&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;宁静&lt;/td&gt;
-      &lt;td&gt;不为琐事，寻常之事，和不可避免之事乱了方寸，要耐烦，忍住性子不急躁不厌烦不嫉妒不贪心，不要自私自利，要考虑他人&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;节欲&lt;/td&gt;
-      &lt;td&gt;少行房事，修身养性，也不因异性关系损害和他人的关系&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;谦逊&lt;/td&gt;
-      &lt;td&gt;效法耶稣和苏格拉底&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;礼貌&lt;/td&gt;
-      &lt;td&gt;要微笑，给人面子，尊敬别人，要打招呼，以人为本&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;⚫&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;知足&lt;/td&gt;
-      &lt;td&gt;不要对相亲对象、公司工作内容、公司地点太挑剔，不要对工资太贪婪&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;style&gt;
-table 
-{
-  width: 100%; /*表格宽度*/
-  max-width: 65em; /*表格最大宽度，避免表格过宽*/
-  border: 1px solid #dedede; /*表格外边框设置*/
-  margin: 15px auto; /*外边距*/
-  border-collapse: collapse; /*使用单一线条的边框*/
-  empty-cells: show; /*单元格无内容依旧绘制边框*/
-}
-table th,
-table td {
-  height: 35px; /*统一每一行的默认高度*/
-  border: 1px solid #dedede; /*内部边框样式*/
-  padding: 0 10px; /*内边距*/
-}
-
-/*表头样式*/
-table th
-{
-  font-weight: bold; /*加粗*/
-  text-align: center !important; /*内容居中，加上 !important 避免被 Markdown 样式覆盖*/
-  background: rgba(158,188,226,0.2); /*背景色*/
-}
-
-/*隔行变色*/
-table tbody tr:nth-child(2n) 
-{
-  background: rgba(158,188,226,0.12); 
-}
-
-/*悬浮变色*/
-table tr:hover 
-{
-  background: #efefef; 
-}
-
-/*表头不换行*/
-table th 
-{
-  white-space: nowrap; /*表头内容强制在一行显示*/
-}
-
-/*首列不换行*/
-table td:nth-child(1) 
-{
-  white-space: nowrap; 
-}
-
-[].slice.call(document.querySelectorAll('table')).forEach(function(el)
-{
-  var wrapper = document.createElement('div');
-  wrapper.className = 'table-area';
-  el.parentNode.insertBefore(wrapper, el);
-  el.parentNode.removeChild(el);
-  wrapper.appendChild(el);
-})
-
-$(&quot;table&quot;).wrap(&quot;&lt;div class='table-area'&gt;&lt;/div&gt;&quot;);
-
-.table-area 
-{
-  overflow: auto;
-}
-&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">早上睡醒后胡思乱想</summary></entry></feed>
+&lt;/style&gt;</content><author><name>ShanDaMing</name></author><category term="生活" /><summary type="html">今天上午开发程序</summary></entry></feed>
