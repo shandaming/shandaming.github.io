@@ -1,7 +1,6 @@
 # Site settings
 title:          ShanDaMing
-description:    "Minimal Jekyll theme for storytellers"
-
+description:    "Personal blog"
 url:            "https://shandaming.github.io"
 
 # Google Analytics
@@ -23,11 +22,14 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
+remote_theme: chesterhow/tale
+
 # Gems
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-remote-theme
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
@@ -39,18 +41,3 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus:         jekyll-tale
-
-# ----------------
-theme:      tale
-
-permalink:  /:year-:month-:day/:title
-paginate:   5
-
-remote_theme: chesterhow/tale
-
-permalink:    /:year-:month-:day/:title
-paginate:     5
-
-plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
