@@ -2,7 +2,7 @@
 layout: post
 title: "把妹那些事-Jocab"
 author: "ShanDaMing"
-tags: 总结
+tags: PUA
 excerpt_separator: <!--more-->
 ---
 
