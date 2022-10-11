@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何赢得朋友和影响他人"
+title: "How to Win Friends and Influence People"
 author: "ShanDaMing"
 tags: PUA
 excerpt_separator: <!--more-->
